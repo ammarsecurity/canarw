@@ -1,0 +1,2522 @@
+{
+  "version": 1,
+  "captured_at": "2026-10-04",
+  "source": "https://www.canarw.org/",
+  "pages": [
+    {
+      "path": "/",
+      "title": "الرئيسية",
+      "language": "ar",
+      "source": "https://www.canarw.org/",
+      "description": "انضم إلى حركة المجتمع المدني العربي ونحن نوحّد الجهود لمواجهة تغير المناخ. اكتشف كيف يصنع العمل المناخي الجماعي مستقبلاً أكثر استدامة لمجتمعاتنا.",
+      "sections": [
+        {
+          "layout": "hero",
+          "title": "شبكة العمل المناخي\nالعمل المناخي الآن",
+          "body": "<p dir=\"auto\">لم يعد العمل المناخي خيارًا مؤجلًا، بل ضرورة ملحّة تفرضها التحديات البيئية والاقتصادية والاجتماعية التي تواجه منطقتنا اليوم. فالآثار المتسارعة لتغير المناخ — من موجات الحر الشديدة إلى شحّ المياه وتراجع الأمن الغذائي — تتطلب تحركًا فوريًا وطموحًا على جميع المستويات</p>",
+          "items": [
+            {
+              "type": "image",
+              "image": "68ceb2e9a6c26b.jpg",
+              "alt": "A diverse group of people planting trees together under a bright sky symbolizing hope and unity in the Arab region",
+              "caption": "",
+              "url": ""
+            }
+          ],
+          "tone": "dark",
+          "hidden": false,
+          "kicker": "شبكة العمل المناخي — العالم العربي",
+          "button_label": "تعرّف على عملنا",
+          "button_url": "/climate-action"
+        },
+        {
+          "layout": "split",
+          "title": "شبكة العمل المناخي — العالم العربي",
+          "body": "",
+          "items": [
+            {
+              "type": "text",
+              "html": "<h6 dir=\"auto\"><strong>مهمتنا</strong></h6><p dir=\"auto\">مهمتنا هي توحيد وتنسيق جهود منظمات المجتمع المدني في العالم العربي لتعزيز العمل المناخي الفعّال والعادل، من خلال التأثير في السياسات العامة، وبناء القدرات، ورفع الوعي المجتمعي، ودعم المبادرات المستدامة التي تساهم في التخفيف من آثار تغير المناخ والتكيف معها. نعمل على تمكين المجتمعات، خاصة الفئات الأكثر هشاشة، للدفاع عن حقوقها البيئية، وتعزيز التحول نحو نماذج تنموية منخفضة الكربون وعادلة، بما يضمن مستقبلًا مستدامًا للأجيال الحالية والقادمة</p>"
+            },
+            {
+              "type": "text",
+              "html": "<h6 dir=\"auto\"><strong>رؤيتنا</strong></h6><p dir=\"auto\">رؤيتنا هي بناء عالم عربي رائد في العمل المناخي، يقوم على العدالة والاستدامة والقدرة على التكيف مع تحديات تغير المناخ، حيث تكون حماية الإنسان والبيئة أولوية في جميع السياسات والقرارات التنموية. نطمح إلى مجتمعات واعية ومُمكَّنة تقود التحول نحو الطاقة المتجددة والاقتصاد الأخضر، وتضع العدالة المناخية وحقوق الأجيال القادمة في صميم مسارها التنموي، مع تعزيز التعاون الإقليمي وتمكين المجتمع المدني ليكون شريكًا فاعلًا في صناعة مستقبل أكثر أمانًا واستدامة</p>"
+            },
+            {
+              "type": "image",
+              "image": "33b0967f66d96e.jpg",
+              "alt": "a couple of camels walking across a desert",
+              "caption": "",
+              "url": ""
+            }
+          ],
+          "tone": "light",
+          "hidden": false
+        },
+        {
+          "layout": "editorial",
+          "title": "عملنا",
+          "body": "<p dir=\"auto\">نعمل في مختلف أنحاء المنطقة العربية على تعزيز العمل المناخي العادل والمستدام من خلال بناء شراكات فاعلة مع منظمات المجتمع المدني، وصنّاع القرار، والشباب، والمؤسسات الأكاديمية. نركز على دعم السياسات المناخية الطموحة، وتعزيز التحول نحو الطاقات المتجددة، ورفع الوعي البيئي، وتمكين المجتمعات الأكثر تأثرًا بتغير المناخ من المشاركة في صنع القرار والدفاع عن حقوقها البيئية. كما نُنسّق الجهود الإقليمية، ونوفر منصات للحوار وتبادل الخبرات، وننظم حملات ومبادرات مشتركة تهدف إلى خفض الانبعاثات، وتعزيز التكيف وبناء القدرة على الصمود، بما يسهم في تحقيق تنمية مستدامة وعادلة في العالم العربي</p>",
+          "items": [
+            {
+              "type": "card",
+              "title": "المناصرة",
+              "html": "<p dir=\"auto\">ُعدّ المناصرة ركيزة أساسية في عمل شبكة العمل المناخي – العالم العربي، حيث نعمل على التأثير في السياسات والقرارات المناخية على المستويات الوطنية والإقليمية والدولية، بما يضمن تبني سياسات طموحة وعادلة تستجيب لتحديات تغير المناخ في المنطقة. ننسّق جهود منظمات المجتمع المدني لتعزيز صوت عربي موحّد في المحافل الدولية، وخاصة في مؤتمرات الأطراف (COP) وعمليات اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ (UNFCCC)، مع التركيز على قضايا العدالة المناخية، والتمويل المناخي، والخسائر والأضرار، والتحول العادل نحو الطاقة المتجددة.</p><p dir=\"auto\">كما نعمل على إعداد مذكرات سياسات، وبيانات مشتركة، وحملات ضغط، ولقاءات مع صناع القرار، بهدف ضمان دمج الاعتبارات البيئية والاجتماعية في الخطط الوطنية للتنمية. نؤمن بأن المناصرة الفعالة تستند إلى المعرفة العلمية، والشراكات القوية، والمشاركة المجتمعية الواسعة، وأن المجتمع المدني شريك أساسي في صياغة مستقبل مناخي مستدام وعادل في العالم العربي</p>",
+              "image": "70dabaf1531cd9.jpg",
+              "alt": "factories with smoke under cloudy sky",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "التعاون",
+              "html": "<p dir=\"auto\">ُشكّل التعاون أساس عمل شبكة العمل المناخي – العالم العربي، إذ نؤمن بأن مواجهة تحديات تغير المناخ تتطلب عملاً جماعيًا عابرًا للحدود والقطاعات. نعمل على بناء شراكات استراتيجية مع منظمات المجتمع المدني، والمؤسسات الأكاديمية، والقطاع الخاص، وصنّاع القرار، والهيئات الإقليمية والدولية، لتعزيز التنسيق وتبادل الخبرات وتوحيد الجهود نحو أهداف مناخية مشتركة.</p><p dir=\"auto\">نوفر منصات للحوار وتبادل المعرفة بين الفاعلين في المنطقة، وندعم المبادرات المشتركة التي تعزز التحول نحو الطاقة المتجددة، وتدعم السياسات المناخية الطموحة، وتُرسّخ مبادئ العدالة المناخية. كما نحرص على تمكين الشباب والنساء والمجتمعات المحلية ليكونوا شركاء فاعلين في العمل المناخي، بما يعزز التكامل الإقليمي ويضاعف الأثر الإيجابي في العالم العربي</p>",
+              "image": "90466d21bdd1e1.jpg",
+              "alt": "Community members planting trees together in a desert region to combat climate change.",
+              "url": ""
+            }
+          ],
+          "tone": "soft",
+          "hidden": false
+        },
+        {
+          "layout": "testimonials",
+          "title": "",
+          "body": "",
+          "items": [
+            {
+              "type": "card",
+              "title": "Dr.Sami Al Mabruk",
+              "html": "<p dir=\"auto\"><strong>”Impressed with the efficiency and professionalism. The entire process was smooth and hassle-free.”</strong></p>",
+              "image": "226ee7a78e0fb2.jpg",
+              "alt": "Dr.Sami Al Mabruk",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "Mohamed Kamel",
+              "html": "<p dir=\"auto\"><strong>”Impressed with the efficiency and professionalism. The entire process was smooth and hassle-free.”</strong></p>",
+              "image": "634c5066fb9ef8.jpg",
+              "alt": "Mohamed Kamel",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "Eng.Raad Kurdi",
+              "html": "<p dir=\"auto\"><strong>”Impressed with the efficiency and professionalism. The entire process was smooth and hassle-free.”</strong></p>",
+              "image": "df72e0b0ee9b4a.jpg",
+              "alt": "Eng.Raad Kurdi",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "Dr.Rola al haji",
+              "html": "<p dir=\"auto\"><strong>”Impressed with the efficiency and professionalism. The entire process was smooth and hassle-free.”</strong></p>",
+              "image": "83134a22571507.png",
+              "alt": "Dr.Rola al haji",
+              "url": ""
+            }
+          ],
+          "tone": "light",
+          "hidden": false
+        },
+        {
+          "layout": "cards",
+          "tone": "soft",
+          "hidden": false,
+          "kicker": "مجالات العمل",
+          "title": "مجالات التركيز",
+          "body": "<p>أربعة مسارات ينتقل فيها المجتمع المدني العربي بالعمل المناخي من البيان إلى الممارسة.</p>",
+          "button_label": "استكشف المبادرات",
+          "button_url": "/initiatives",
+          "items": [
+            {
+              "type": "card",
+              "title": "الطاقة النظيفة",
+              "html": "<p>مشاريع الشمس والرياح التي تخفض الانبعاثات وتوسّع الوصول إلى طاقة أنظف.</p>",
+              "image": "50f013d718ac64.jpg",
+              "alt": "مجموعة تزرع الأشجار في أرض جافة عند الشروق",
+              "caption": "",
+              "url": "/initiatives",
+              "label": "",
+              "button": "",
+              "style": "primary"
+            },
+            {
+              "type": "card",
+              "title": "أمن المياه",
+              "html": "<p>استجابات عملية لندرة المياه في منطقة أحرّ وأجف.</p>",
+              "image": "fa9c282fecda61.jpg",
+              "alt": "ألواح شمسية تحت سماء صافية في قرية ريفية",
+              "caption": "",
+              "url": "/initiatives",
+              "label": "",
+              "button": "",
+              "style": "primary"
+            },
+            {
+              "type": "card",
+              "title": "عمل الشباب",
+              "html": "<p>شباب يصنعون القرار المناخي، ولا يكتفون بحضور جلساته.</p>",
+              "image": "1d83574fc37692.jpg",
+              "alt": "ورشة مجتمعية حول الحفاظ على المياه",
+              "caption": "",
+              "url": "/initiatives",
+              "label": "",
+              "button": "",
+              "style": "primary"
+            },
+            {
+              "type": "card",
+              "title": "العمل على السياسات",
+              "html": "<p>قوانين مناخية أقوى، وتمويل عادل، وصوت عربي موحّد.</p>",
+              "image": "3181e066b7a515.jpg",
+              "alt": "شباب يرفعون لافتات في مسيرة مناخية",
+              "caption": "",
+              "url": "/initiatives",
+              "label": "",
+              "button": "",
+              "style": "primary"
+            }
+          ]
+        },
+        {
+          "layout": "split",
+          "tone": "light",
+          "hidden": false,
+          "kicker": "المؤتمر",
+          "title": "COP31 في أنطاليا",
+          "body": "<p>تستعد أنطاليا في تركيا لاستضافة مؤتمر الأمم المتحدة لتغير المناخ COP31 من 9 إلى 20 نوفمبر 2026. تتابع الشبكة هذا المسار لتبقى العدالة المناخية وصوت المجتمعات حاضرة في المفاوضات.</p>",
+          "button_label": "تفاصيل المؤتمر",
+          "button_url": "/cop3031",
+          "items": [
+            {
+              "type": "image",
+              "image": "86a876e2c8624c.jpg",
+              "alt": "محطة من مسار المفاوضات المناخية",
+              "caption": "",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "layout": "stats",
+          "tone": "soft",
+          "hidden": false,
+          "kicker": "الأثر",
+          "title": "أثر العمل المناخي",
+          "body": "<p>أرقام منشورة على موقع الشبكة، وإلى جانبها العمل الذي تشير إليه.</p>",
+          "button_label": "الأنشطة والتدريب",
+          "button_url": "/activates",
+          "items": [
+            {
+              "type": "card",
+              "title": "150+",
+              "html": "<p>أنشطة وبرامج تدريب</p>",
+              "image": "",
+              "alt": "",
+              "caption": "",
+              "url": "",
+              "label": "",
+              "button": "",
+              "style": "primary"
+            },
+            {
+              "type": "card",
+              "title": "15",
+              "html": "<p>خبراء وشركاء موثوقون</p>",
+              "image": "",
+              "alt": "",
+              "caption": "",
+              "url": "",
+              "label": "",
+              "button": "",
+              "style": "primary"
+            },
+            {
+              "type": "card",
+              "title": "COP31",
+              "html": "<p>مسار تفاوض تستعد له المنطقة</p>",
+              "image": "",
+              "alt": "",
+              "caption": "",
+              "url": "",
+              "label": "",
+              "button": "",
+              "style": "primary"
+            },
+            {
+              "type": "card",
+              "title": "SDGs",
+              "html": "<p>عمل مناخي مرتبط بأهداف التنمية المستدامة</p>",
+              "image": "",
+              "alt": "",
+              "caption": "",
+              "url": "",
+              "label": "",
+              "button": "",
+              "style": "primary"
+            }
+          ]
+        },
+        {
+          "layout": "text",
+          "tone": "dark",
+          "hidden": false,
+          "kicker": "الدعوة",
+          "title": "انضم إلى الشبكة",
+          "body": "<p>سواء كنت منظمة مجتمع مدني أو باحثاً أو شاباً يعمل من أجل العدالة المناخية، هناك مكان لك في هذا العمل الجماعي.</p>",
+          "button_label": "تواصل معنا",
+          "button_url": "/contact-as",
+          "items": []
+        }
+      ]
+    },
+    {
+      "path": "/members-and-people",
+      "title": "الأعضاء",
+      "language": "ar",
+      "source": "https://www.canarw.org/members-and-people",
+      "description": "Meet the dedicated members of شبكة العمل المناخي بالعالم العربي, uniting civil society for climate solutions across the Arab region. تعرف على أعضاء شبكتنا الذين يعملون معاً لمواجهة تحديات المناخ.",
+      "sections": [
+        {
+          "layout": "gallery",
+          "title": "Members - الأعضاء",
+          "body": "<p dir=\"auto\"></p><p dir=\"auto\"></p><p dir=\"auto\"></p><p dir=\"auto\"><strong>تضم شبكة العمل المناخي – العالم العربي مجموعة متنوعة من منظمات المجتمع المدني، والمؤسسات البحثية، والمبادرات الشبابية، والجهات البيئية الفاعلة من مختلف الدول العربية، يجمعها هدف مشترك يتمثل في تعزيز العمل المناخي العادل والمستدام في المنطقة.</strong></p><p dir=\"auto\"><strong>تعمل منظماتنا الأعضاء في مجالات متعددة تشمل المناصرة السياسية، الطاقة المتجددة، التوعية البيئية، البحث العلمي، بناء القدرات، وتمكين المجتمعات المحلية. ويعكس هذا التنوع قوة الشبكة وقدرتها على التنسيق والعمل المشترك لتحقيق تأثير إقليمي فعّال.</strong></p><p dir=\"auto\"><strong>نحرص على توسيع عضويتنا باستمرار لتعزيز التعاون وتبادل الخبرات بين مختلف الفاعلين، وإتاحة منصة جامعة تُمكّن المجتمع المدني العربي من توحيد صوته في مواجهة تحديات تغير المناخ.</strong></p><p dir=\"auto\"></p>",
+          "items": [
+            {
+              "type": "image",
+              "image": "1cdad8d2a102af.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            }
+          ],
+          "tone": "light",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "path": "/climate-action",
+      "title": "العمل المناخي",
+      "language": "ar",
+      "source": "https://www.canarw.org/climate-action",
+      "description": "A regional network driving climate justice, renewable energy, and sustainable development across the Arab region.",
+      "sections": [
+        {
+          "layout": "gallery",
+          "title": "CLIMATE ACTION NOW",
+          "body": "<p dir=\"auto\">Climate Action refers to the collective efforts taken to combat climate change by reducing greenhouse gas emissions, transitioning to renewable energy, strengthening resilience, and promoting sustainable development. It includes policy reform, community engagement, climate finance, innovation, and international cooperation to address both mitigation and adaptation.</p><p dir=\"auto\"></p><p dir=\"auto\"></p><p dir=\"auto\"></p><p dir=\"auto\"></p>",
+          "items": [
+            {
+              "type": "image",
+              "image": "0d8ecc7bb1bc9d.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "7444afc07d8c14.jpg",
+              "alt": "a large iceberg in the middle of a body of water",
+              "caption": "",
+              "url": ""
+            }
+          ],
+          "tone": "light",
+          "hidden": false
+        },
+        {
+          "layout": "editorial",
+          "title": "Our Climate Commitment",
+          "body": "<p dir=\"auto\"></p><p dir=\"auto\">We are committed to advancing ambitious, science-based climate action that accelerates the transition toward renewable energy, strengthens climate resilience, and promotes sustainable development across the Arab region. Our work is grounded in the principles of climate justice, equity, and inclusive participation, ensuring that vulnerable communities are at the center of climate solutions. Through policy advocacy, regional collaboration, capacity building, and public engagement, we strive to reduce emissions, support adaptation efforts, and build a just, low-carbon future for present and future generations</p>",
+          "items": [
+            {
+              "type": "image",
+              "image": "2fe363b49f2d46.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "html": "<h6 dir=\"auto\"><strong>Empowering communities to lead change.</strong></h6>"
+            },
+            {
+              "type": "text",
+              "html": "<p dir=\"auto\">Amina K.</p>"
+            },
+            {
+              "type": "text",
+              "html": "<h6 dir=\"auto\"><strong>\"</strong></h6>"
+            },
+            {
+              "type": "image",
+              "image": "0d8ecc7bb1bc9d.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "0b78520d74fbbe.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            }
+          ],
+          "tone": "soft",
+          "hidden": false
+        },
+        {
+          "layout": "cards",
+          "title": "Projects",
+          "body": "<p dir=\"auto\">Driving climate justice across Arab communities.</p>",
+          "items": [
+            {
+              "type": "card",
+              "title": "Policy Push",
+              "html": "<p dir=\"auto\">Advocating for stronger climate laws.</p>",
+              "image": "3e741729bec93d.jpg",
+              "alt": "A group of diverse activists planting trees in a sunlit desert landscape.",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "Renewables",
+              "html": "<p dir=\"auto\">Promoting clean energy solutions.</p>",
+              "image": "cfc1f20003baaf.jpg",
+              "alt": "Community members installing solar panels on a rooftop in a small village.",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "Capacity",
+              "html": "<p dir=\"auto\">Building skills for climate action.</p>",
+              "image": "8764f76419b43c.jpg",
+              "alt": "Workshop with local leaders discussing climate resilience strategies around a table.",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "Justice",
+              "html": "<p dir=\"auto\">Centering vulnerable voices.</p>",
+              "image": "2c6778bf386ced.jpg",
+              "alt": "Children playing near a restored wetland area flourishing with native plants.",
+              "url": ""
+            }
+          ],
+          "tone": "light",
+          "hidden": false
+        },
+        {
+          "layout": "gallery",
+          "title": "شبكة العمل المناخي – العالم العربي وأهمية مؤتمر SB64 في بون، ألمانيا",
+          "body": "<p dir=\"auto\">تُعدّ شبكة العمل المناخي – العالم العربي (Climate Action Network Arab World – CANAW) إحدى أبرز المنصات الإقليمية التي تجمع منظمات المجتمع المدني، والباحثين، والنشطاء، والمؤسسات العاملة في مجالات المناخ والتنمية المستدامة في المنطقة العربية. وتعمل الشبكة على تعزيز العدالة المناخية، ودعم السياسات البيئية الطموحة، ورفع صوت المنطقة العربية في المفاوضات الدولية المتعلقة بتغير المناخ، خاصة في إطار اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ (UNFCCC). (<a href=\"http://climatenetwork.org\">climatenetwork.org</a>⁠)</p><p dir=\"auto\">تتمثل رؤية الشبكة في بناء منطقة عربية أكثر قدرة على الصمود أمام آثار التغير المناخي، من خلال تعزيز العمل الجماعي، وتمكين المجتمع المدني، والمناصرة من أجل سياسات مناخية عادلة تراعي احتياجات الفئات الأكثر هشاشة، بما في ذلك النساء والشباب والمجتمعات المحلية. كما تعمل الشبكة على دعم الانتقال العادل نحو الاقتصاد الأخضر والطاقة المتجددة، وتعزيز التمويل المناخي، وحماية التنوع البيولوجي والنظم البيئية. (<a href=\"http://climatenetwork.org\">climatenetwork.org</a>⁠)</p><p dir=\"auto\">أهمية مؤتمر SB64 في بون – ألمانيا</p><p dir=\"auto\">يمثل مؤتمر الدورة الرابعة والستين للهيئتين الفرعيتين لاتفاقية الأمم المتحدة بشأن تغير المناخ (SB64)، المنعقد في مدينة بون الألمانية خلال الفترة من 8 إلى 18 يونيو 2026، محطة مفصلية في مسار المفاوضات المناخية العالمية، إذ يسبق انعقاد مؤتمر الأطراف القادم ويُعد منصة أساسية لصياغة القرارات الفنية والسياسية التي ستحدد ملامح العمل المناخي الدولي في السنوات المقبلة. (<a href=\"http://pacja.org\">pacja.org</a>⁠)</p><p dir=\"auto\">وتبرز أهمية مؤتمر SB64 في عدة محاور رئيسية:</p><ol dir=\"auto\"><li><p dir=\"auto\">مراجعة وتعزيز المساهمات الوطنية المحددة (NDCs): من خلال مناقشة رفع طموح الدول لتحقيق أهداف اتفاق باريس والحد من ارتفاع درجة حرارة الأرض إلى 1.5 درجة مئوية.</p></li><li><p dir=\"auto\">التمويل المناخي: دفع الجهود الرامية إلى زيادة التمويل المخصص للدول النامية، وضمان الوصول العادل إلى الموارد المالية اللازمة للتكيف والتخفيف من آثار التغير المناخي.</p></li><li><p dir=\"auto\">التكيف والخسائر والأضرار: تعزيز آليات دعم المجتمعات الأكثر تضرراً من الكوارث المناخية وتطوير مؤشرات قياس التقدم في تحقيق الهدف العالمي للتكيف.</p></li><li><p dir=\"auto\">الانتقال العادل والطاقة النظيفة: دعم التحول نحو الاقتصادات منخفضة الكربون مع مراعاة الأبعاد الاجتماعية والاقتصادية للدول النامية.</p></li><li><p dir=\"auto\">إشراك المجتمع المدني: يوفر المؤتمر مساحة مهمة لمنظمات المجتمع المدني والشبكات الإقليمية، ومنها شبكة العمل المناخي – العالم العربي، للمشاركة في الحوار العالمي وتقديم توصيات تعكس أولويات المنطقة العربية. (<a href=\"https://www.sei.org/features/sb62-unpacked-adaptation-agenda-bonn-climate-change-conference/?utm_source=chatgpt.com\">SEI</a>⁠)</p></li></ol><p dir=\"auto\">دور شبكة العمل المناخي – العالم العربي في SB64</p><p dir=\"auto\">تسعى شبكة العمل المناخي – العالم العربي إلى استثمار مؤتمر SB64 لتعزيز التنسيق بين منظمات المجتمع المدني العربية، والدفاع عن قضايا العدالة المناخية، وزيادة التمويل المخصص للتكيف في الدول العربية، وتسليط الضوء على التحديات التي تواجه المنطقة، بما في ذلك التصحر، وشح المياه، وارتفاع درجات الحرارة، وفقدان التنوع البيولوجي.</p><p dir=\"auto\">كما تؤكد الشبكة على أهمية إشراك الشباب والنساء والمجتمعات المحلية في صنع القرار المناخي، والعمل على بناء شراكات إقليمية ودولية تسهم في تحقيق أهداف التنمية المستدامة وتعزيز القدرة على الصمود في مواجهة التغيرات المناخية.</p><p dir=\"auto\">إن مؤتمر SB64 في بون يمثل فرصة استراتيجية للمنطقة العربية لتوحيد صوتها المناخي، وتعزيز حضور المجتمع المدني العربي في المفاوضات الدولية، والمساهمة في بناء مستقبل أكثر عدالة واستدامة للأجيال القادمة. (<a href=\"http://concern.net\">concern.net</a>⁠)</p>",
+          "items": [
+            {
+              "type": "image",
+              "image": "f145273e43ccca.jpg",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            }
+          ],
+          "tone": "light",
+          "hidden": false
+        },
+        {
+          "layout": "text",
+          "title": "Our Hub",
+          "body": "<p dir=\"auto\">Located in the heart of the Arab region, we connect voices for climate justice and sustainable futures.</p>",
+          "items": [
+            {
+              "type": "text",
+              "html": "<h6 dir=\"auto\"><strong>Address</strong></h6>"
+            },
+            {
+              "type": "text",
+              "html": "<p dir=\"auto\">Cairo, Egypt</p>"
+            },
+            {
+              "type": "text",
+              "html": "<h6 dir=\"auto\"><strong>Hours</strong></h6>"
+            },
+            {
+              "type": "text",
+              "html": "<p dir=\"auto\">9am - 5pm</p>"
+            }
+          ],
+          "tone": "soft",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "path": "/contact-as",
+      "title": "تواصل معنا",
+      "language": "ar",
+      "source": "https://www.canarw.org/contact-as",
+      "description": "تتعر الحياة على الأرض لتهديد شديد من جراء تغير المناخ الارثي الذي يسببه الإنسان من خلال إناجنا المستمر للغزات الدفيئة. شبكة العمل المناخي باعالم العربي تأخذ هذه التهديدات على محمل الجد وتعمل على مواجهتها بالعمل على الأرض في مناطق تواجدها. إن شبكة العمل المناخي ف العالم العربي أو \"كاناو\" ",
+      "sections": [
+        {
+          "layout": "gallery",
+          "title": "Contact Us",
+          "body": "<p dir=\"auto\">Reach out to join our climate action movement today.</p>",
+          "items": [
+            {
+              "type": "contact",
+              "title": "",
+              "button": "Send Message"
+            },
+            {
+              "type": "image",
+              "image": "0fa7d745d8be2e.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "02b8a9b5ff8ed3.jpg",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "b2f90b9b19ddd9.jpg",
+              "alt": "gray computer monitor",
+              "caption": "",
+              "url": ""
+            }
+          ],
+          "tone": "light",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "path": "/cop3031",
+      "title": "COP30 و COP31",
+      "language": "ar",
+      "source": "https://www.canarw.org/cop3031",
+      "description": "",
+      "sections": [
+        {
+          "layout": "gallery",
+          "title": "",
+          "body": "",
+          "items": [
+            {
+              "type": "image",
+              "image": "86a876e2c8624c.jpg",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            }
+          ],
+          "tone": "light",
+          "hidden": false
+        },
+        {
+          "layout": "cards",
+          "title": "أنطاليا تستعد لاستضافة COP31 نحو مرحلة جديدة من العمل المناخي العالم",
+          "body": "<p dir=\"auto\">تشهد مدينة Antalya في تركيا تحضيرات مكثفة لاستضافة مؤتمر الأمم المتحدة للتغير المناخي COP31، والمقرر عقده خلال الفترة من 9 إلى 20 نوفمبر 2026، ليكون أحد أكبر الأحداث المناخية العالمية التي تستضيفها المنطقة.</p>",
+          "items": [
+            {
+              "type": "card",
+              "title": "الطاقة المتجددة واهميتها",
+              "html": "<p dir=\"auto\">This project aims to develop a user-friendly mobile application.</p>",
+              "image": "2c43c444a5bfc0.jpg",
+              "alt": "",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "أهمية مشاركة منظمات المجتمع المدني في COP31 لتعزيز العدالة والعمل المناخ",
+              "html": "<p dir=\"auto\">تمثل مشاركة منظمات المجتمع المدني في مؤتمر COP31 ركيزة أساسية لتعزيز العدالة المناخية وإيصال صوت المجتمعات المتأثرة بالتغيرات المناخية إلى صناع القرار.كما تسهم هذه المشاركة في دعم الحلول المستدامة وبناء شراكات فاعلة لتحقيق أهداف التنمية والعمل المناخي العالمي</p>",
+              "image": "1fd9d42f4a00d0.jpg",
+              "alt": "",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "Project title",
+              "html": "<p dir=\"auto\">This project aims to develop a user-friendly mobile application.</p>",
+              "image": "aca4ccd7631b2c.jpg",
+              "alt": "",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "Project title",
+              "html": "<p dir=\"auto\">This project aims to develop a user-friendly mobile application.</p>",
+              "image": "ad2f6cba9ae69e.jpg",
+              "alt": "",
+              "url": ""
+            }
+          ],
+          "tone": "light",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "path": "/initiatives",
+      "title": "المبادرات",
+      "language": "ar",
+      "source": "https://www.canarw.org/initiatives",
+      "description": "Join شبكة العمل المناخي بالعالم العربي as we unite civil society for impactful climate solutions across the Arab region. انضم إلينا للعمل المناخي.",
+      "sections": [
+        {
+          "layout": "cards",
+          "title": "Projects مشاريع",
+          "body": "<p dir=\"auto\">Driving climate solutions across the Arab world. قيادة حلول المناخ في العالم العربي</p>",
+          "items": [
+            {
+              "type": "card",
+              "title": "Clean Energy الطاقة النظيفة",
+              "html": "<p dir=\"auto\">Promoting solar and wind projects. تعزيز مشاريع الطاقة الشمسية والرياح</p>",
+              "image": "50f013d718ac64.jpg",
+              "alt": "A group of diverse activists planting trees in a dry Arab landscape at sunrise.",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "Water Security أمن المياه",
+              "html": "<p dir=\"auto\">Innovative solutions for scarce water. حلول مبتكرة لمياه نادرة</p>",
+              "image": "fa9c282fecda61.jpg",
+              "alt": "Solar panels gleaming under a bright blue sky in a rural Arab village.",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "Youth Action شباب",
+              "html": "<p dir=\"auto\">Empowering young voices for change. تمكين الشباب من أجل التغيير</p>",
+              "image": "1d83574fc37692.jpg",
+              "alt": "Community members gathered around a water conservation workshop in an Arab town.",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "Policy Work السياسات",
+              "html": "<p dir=\"auto\">Advocating for stronger climate laws. الدعوة لقوانين مناخية أقوى</p>",
+              "image": "3181e066b7a515.jpg",
+              "alt": "Youth activists holding banners at a climate march in an Arab city.",
+              "url": ""
+            }
+          ],
+          "tone": "light",
+          "hidden": false
+        },
+        {
+          "layout": "gallery",
+          "title": "",
+          "body": "",
+          "items": [
+            {
+              "type": "image",
+              "image": "b64968cadb06bb.jpg",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "bf0bffee418254.jpg",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "ad2f6cba9ae69e.jpg",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "551aa46e55e078.jpg",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "ca470da47ef2ae.jpg",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "e2b7d099bde2fa.jpg",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            }
+          ],
+          "tone": "soft",
+          "hidden": false
+        },
+        {
+          "layout": "gallery",
+          "title": "Gallery | معرض",
+          "body": "<p dir=\"auto\">Snapshots of our regional climate action moments | لقطات من لحظات العمل المناخي الإقليمية</p>",
+          "items": [
+            {
+              "type": "image",
+              "image": "06aacd7614ceca.jpg",
+              "alt": "white and black ship on sea under white clouds",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "7b836f9137232f.jpg",
+              "alt": "brown and black concrete floor",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "e1d41d82fc2367.jpg",
+              "alt": "A workshop session with diverse civil society members sharing ideas on climate resilience.",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "ca470da47ef2ae.jpg",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "b64968cadb06bb.jpg",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "551aa46e55e078.jpg",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            }
+          ],
+          "tone": "light",
+          "hidden": false
+        },
+        {
+          "layout": "gallery",
+          "title": "Our Story قصتنا",
+          "body": "<p dir=\"auto\"></p><p dir=\"auto\">قصتنا</p><p dir=\"auto\">انطلقت شبكة العمل المناخي – العالم العربي من إيمانٍ راسخ بأن منطقتنا، رغم التحديات البيئية والمناخية المتزايدة، تمتلك القدرة على قيادة تحول حقيقي نحو مستقبل أكثر استدامة وعدالة. في ظل تصاعد آثار تغير المناخ على الموارد المائية، والأمن الغذائي، والصحة، وسبل العيش، برزت الحاجة إلى إطارٍ يجمع منظمات المجتمع المدني تحت مظلة واحدة لتوحيد الجهود وتعزيز التأثير.</p><p dir=\"auto\">تأسست الشبكة لتكون منصة تنسيق وتعاون إقليمي، تُعزّز صوت المجتمع المدني العربي في النقاشات والسياسات المناخية على المستويات الوطنية والدولية. ومنذ انطلاقتها، عملت على بناء شراكات فاعلة، وتنظيم حملات ومبادرات مشتركة، والمشاركة في مؤتمرات المناخ العالمية، بهدف الدفع نحو سياسات طموحة، وتمويل مناخي عادل، وتحول مستدام نحو الطاقات المتجددة.</p><p dir=\"auto\">قصتنا هي قصة تعاون وإصرار وإيمان بأن العمل الجماعي قادر على إحداث التغيير. ومع كل شراكة جديدة، وكل حملة توعوية، وكل موقف مناصر للعدالة المناخية، نواصل كتابة فصل جديد من مسيرتنا نحو عالم عربي أكثر أمانًا واستدامة للأجيال القادمة.</p>",
+          "items": [
+            {
+              "type": "image",
+              "image": "fc89f0a367b4f5.jpg",
+              "alt": "A group of diverse activists gathered in a sunny outdoor meeting, discussing climate plans with maps and laptops.",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "6f8f22ac3c8661.jpg",
+              "alt": "A vibrant community event in the Arab region showcasing local efforts to protect the environment.",
+              "caption": "",
+              "url": ""
+            }
+          ],
+          "tone": "soft",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "path": "/activates",
+      "title": "الأنشطة",
+      "language": "ar",
+      "source": "https://www.canarw.org/activates",
+      "description": "",
+      "sections": [
+        {
+          "layout": "split",
+          "title": "About Our New Department",
+          "body": "<p dir=\"auto\">We’ve launched a new department focused on activities and training programs designed to empower and engage our community.</p>",
+          "items": [
+            {
+              "type": "image",
+              "image": "58ff68d6938267.jpg",
+              "alt": "A lively group of people participating in a hands-on training session in a bright, welcoming room.",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "html": "<h3 dir=\"auto\">150+</h3>"
+            },
+            {
+              "type": "text",
+              "html": "<h3 dir=\"auto\">15</h3>"
+            },
+            {
+              "type": "text",
+              "html": "<p dir=\"auto\">Trusted Experts</p>"
+            },
+            {
+              "type": "text",
+              "html": "<p dir=\"auto\">Proven Results</p>"
+            },
+            {
+              "type": "link",
+              "label": "Join Us",
+              "url": "/contact-as",
+              "style": "primary"
+            }
+          ],
+          "tone": "light",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "path": "/sdgs",
+      "title": "أهداف التنمية",
+      "language": "ar",
+      "source": "https://www.canarw.org/sdgs",
+      "description": "",
+      "sections": [
+        {
+          "layout": "gallery",
+          "title": "",
+          "body": "",
+          "items": [
+            {
+              "type": "image",
+              "image": "241efea8364104.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "9ba126bd4fdb38.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "e9ab65166995f9.gif",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "c8e831e52bee7b.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "bf26e8d78c2e5e.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "922ee27f5aa007.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "f0e1ec9949aa83.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "51f91d95e9fa66.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "3499d1b7ea5433.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "59c8667b6f60d9.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "1eac8da592747e.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "b3b58eee577bd1.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "e644a2ac0b33c1.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "3a8ec857637040.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "fc408a447b835b.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "92fc7c4469f0b0.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "3e5e8b5da3f18a.jpg",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "1888ddf72566c7.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "b0eb1673c13ba5.gif",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "eb1907e5dd4615.gif",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "dad6eb57056de3.jpg",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            }
+          ],
+          "tone": "light",
+          "hidden": false
+        },
+        {
+          "layout": "gallery",
+          "title": "",
+          "body": "",
+          "items": [
+            {
+              "type": "image",
+              "image": "f0361b623774ab.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            }
+          ],
+          "tone": "soft",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "path": "/network-structure",
+      "title": "هيكل الشبكة",
+      "language": "ar",
+      "source": "https://www.canarw.org/network-structure",
+      "description": "Explore how our regional network organizes governance, coordination, and decision-making to advance sustainability and climate action in the Arab region.",
+      "sections": [
+        {
+          "layout": "text",
+          "title": "Network Structure",
+          "body": "<p dir=\"auto\">How member organizations coordinate, govern, and collaborate effectively</p>",
+          "items": [],
+          "tone": "light",
+          "hidden": false
+        },
+        {
+          "layout": "gallery",
+          "title": "Our Network Structure",
+          "body": "<p dir=\"auto\">We organize member groups through clear governance, coordination, and decision-making processes.</p>",
+          "items": [
+            {
+              "type": "image",
+              "image": "1cdad8d2a102af.png",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "link",
+              "label": "Learn More",
+              "url": "/network-structure#section-3",
+              "style": "primary"
+            }
+          ],
+          "tone": "soft",
+          "hidden": false
+        },
+        {
+          "layout": "cards",
+          "title": "Network Structure",
+          "body": "<p dir=\"auto\">How member groups are organized and governed</p>",
+          "items": [
+            {
+              "type": "card",
+              "title": "Governance",
+              "html": "<p dir=\"auto\">Bodies overseeing strategic decisions</p>",
+              "image": "bb0bed04f9f828.jpg",
+              "alt": "Diagram illustrating governance layers within the network",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "Coordination",
+              "html": "<p dir=\"auto\">Mechanisms linking member activities</p>",
+              "image": "30cf9dab802029.jpg",
+              "alt": "Group of representatives coordinating around a table",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "Working Groups",
+              "html": "<p dir=\"auto\">Teams focused on thematic goals</p>",
+              "image": "8764f76419b43c.jpg",
+              "alt": "Active working group discussing sustainability projects",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "Decisions",
+              "html": "<p dir=\"auto\">Processes guiding consensus and action</p>",
+              "image": "aaa9a14ef99e48.jpg",
+              "alt": "Visual flowchart showing decision-making processes",
+              "url": ""
+            }
+          ],
+          "tone": "light",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "path": "/reports-and-resources",
+      "title": "التقارير والموارد",
+      "language": "ar",
+      "source": "https://www.canarw.org/reports-and-resources",
+      "description": "",
+      "sections": [
+        {
+          "layout": "text",
+          "title": "Reports & Resources",
+          "body": "<p dir=\"auto\">From consulting and strategy development to implementation and support, our comprehensive services can help your business thrive.</p>",
+          "items": [],
+          "tone": "light",
+          "hidden": false
+        },
+        {
+          "layout": "cards",
+          "title": "",
+          "body": "",
+          "items": [
+            {
+              "type": "card",
+              "title": "اتفاقية باريس 2025 PDF",
+              "html": "<p dir=\"auto\"><a href=\"https://unfccc.int/files/meetings/paris_nov_2015/application/pdf/paris_agreement_arabic_.pdf\">Our experienced architects provide personalized design solutions that turn your dreams into reality.</a></p>",
+              "image": "45916bc0bb7959.png",
+              "alt": "",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "ﺍﺗﻔﺎﻗﻴﺔ ﺍﻷﻣﻢ ﺍﳌﺘﺤﺪﺓ ﺍﻹﻃﺎﺭﻳﺔ للمناخ",
+              "html": "<p dir=\"auto\"><a href=\"https://unfccc.int/sites/default/files/convention_text_with_annexes_arabic_for_posting.pdf\">We craft unique and innovative designs, working closely with our clients to bring their visions to life.</a></p>",
+              "image": "73d0e0c05f4bca.jpg",
+              "alt": "",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "تقرير التقييم السادس للهيئة الحكومية الدولية المعنية بتغير المناخ: تغير المناخ في عام 2022",
+              "html": "<p dir=\"auto\"><a href=\"https://www.ipcc.ch/report/sixth-assessment-report-working-group-ii/\">Our architecture services prioritize function and form to create spaces that stand the test of time.</a></p>",
+              "image": "158004c7167f69.jpg",
+              "alt": "",
+              "url": ""
+            }
+          ],
+          "tone": "soft",
+          "hidden": false
+        },
+        {
+          "layout": "cards",
+          "title": "Our services",
+          "body": "<p dir=\"auto\">Provide a general summary of the services you provide, highlighting key features and benefits for potential clients.</p>",
+          "items": [
+            {
+              "type": "card",
+              "title": "Service title",
+              "html": "<p dir=\"auto\">Write a short text about your service. Highlight key benefits for potential clients.</p>",
+              "image": "ccc769ffa4ca82.jpg",
+              "alt": "black blue and yellow textile",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "Service title",
+              "html": "<p dir=\"auto\">Write a short text about your service. Highlight key benefits for potential clients.</p>",
+              "image": "bc69308f02c0bc.jpg",
+              "alt": "a man riding a skateboard down the side of a ramp",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "Service title",
+              "html": "<p dir=\"auto\">Write a short text about your service. Highlight key benefits for potential clients.</p>",
+              "image": "29361713bdf925.jpg",
+              "alt": "a man riding a skateboard down a street next to tall buildings",
+              "url": ""
+            }
+          ],
+          "tone": "light",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "path": "/climate-justice",
+      "title": "العدالة المناخية",
+      "language": "ar",
+      "source": "https://www.canarw.org/climate-justice",
+      "description": "",
+      "sections": []
+    },
+    {
+      "path": "/en",
+      "title": "Home",
+      "language": "en",
+      "source": "https://www.canarw.org/en",
+      "description": "Uniting Arab civil society to tackle climate change together and build a fair, lasting response across the region.",
+      "sections": [
+        {
+          "layout": "hero",
+          "title": "Climate Action\nNow",
+          "body": "<p dir=\"auto\">Uniting voices across the Arab world for a greener future.</p>",
+          "items": [
+            {
+              "type": "image",
+              "image": "68ceb2e9a6c26b.jpg",
+              "alt": "A diverse group of people planting trees together under a bright sky symbolizing hope and unity in the Arab region",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "html": "<p dir=\"auto\">Trusted by many</p>"
+            },
+            {
+              "type": "link",
+              "label": "Join Us",
+              "url": "/contact-as",
+              "style": "primary"
+            },
+            {
+              "type": "text",
+              "html": "<p dir=\"auto\">★★★★★</p>"
+            }
+          ],
+          "tone": "dark",
+          "hidden": false,
+          "kicker": "CLIMATE ACTION NETWORK · ARAB WORLD"
+        },
+        {
+          "layout": "split",
+          "title": "Climate Action Network Arab World",
+          "body": "<h3 dir=\"auto\">Climate Action Network Arab World</h3>",
+          "items": [
+            {
+              "type": "text",
+              "html": "<p>Our mission is to unite and coordinate civil society across the Arab world for effective and fair climate action. We influence public policy, build capacity, raise awareness, and support work that cuts climate harm and helps communities adapt. We stand with people, especially the most vulnerable, as they defend their environmental rights and move toward low-carbon, just development.</p>"
+            },
+            {
+              "type": "image",
+              "image": "fc89f0a367b4f5.jpg",
+              "alt": "A diverse group of people from the Arab region collaborating outdoors on climate initiatives.",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "html": "<h6 dir=\"auto\"><strong>Our Mission</strong></h6>"
+            },
+            {
+              "type": "text",
+              "html": "<h6 dir=\"auto\"><strong>Our Vision</strong></h6>"
+            },
+            {
+              "type": "text",
+              "html": "<p>Our vision is an Arab region that leads on climate action through justice, sustainability, and the ability to live with a changing climate. People and nature come first in development decisions. Communities drive the shift to renewable energy and a green economy, and civil society helps shape a safer future for the next generations.</p>"
+            }
+          ],
+          "tone": "soft",
+          "hidden": false
+        },
+        {
+          "layout": "cards",
+          "title": "Our Work",
+          "body": "<p dir=\"auto\">Uniting Arab voices for climate justice and sustainable futures.</p>",
+          "items": [
+            {
+              "type": "card",
+              "title": "Advocacy",
+              "html": "<p dir=\"auto\">Amplifying regional voices to influence climate policies.</p>",
+              "image": "8b142e974e1703.jpg",
+              "alt": "A diverse group of activists holding banners at a climate march in an Arab city.",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "Collaboration",
+              "html": "<p dir=\"auto\">Connecting nonprofits across Arab countries for stronger climate action.</p>",
+              "image": "90466d21bdd1e1.jpg",
+              "alt": "Community members planting trees together in a desert region to combat climate change.",
+              "url": ""
+            }
+          ],
+          "tone": "light",
+          "hidden": false
+        },
+        {
+          "layout": "cards",
+          "tone": "soft",
+          "hidden": false,
+          "kicker": "FOCUS",
+          "title": "Focus areas",
+          "body": "<p>Four paths where Arab civil society can move climate action from statements to practice.</p>",
+          "button_label": "Explore initiatives",
+          "button_url": "/en/initiatives------------",
+          "items": [
+            {
+              "type": "card",
+              "title": "Clean Energy",
+              "html": "<p>Solar and wind projects that cut emissions and widen access to clean power.</p>",
+              "image": "50f013d718ac64.jpg",
+              "alt": "People planting trees in a dry landscape at sunrise",
+              "caption": "",
+              "url": "/en/initiatives------------",
+              "label": "",
+              "button": "",
+              "style": "primary"
+            },
+            {
+              "type": "card",
+              "title": "Water Security",
+              "html": "<p>Practical responses to scarce water in a hotter, drier region.</p>",
+              "image": "fa9c282fecda61.jpg",
+              "alt": "Solar panels under a clear sky in a rural village",
+              "caption": "",
+              "url": "/en/initiatives------------",
+              "label": "",
+              "button": "",
+              "style": "primary"
+            },
+            {
+              "type": "card",
+              "title": "Youth Action",
+              "html": "<p>Young people shaping climate decisions, not only attending them.</p>",
+              "image": "1d83574fc37692.jpg",
+              "alt": "A community workshop on water conservation",
+              "caption": "",
+              "url": "/en/initiatives------------",
+              "label": "",
+              "button": "",
+              "style": "primary"
+            },
+            {
+              "type": "card",
+              "title": "Policy Work",
+              "html": "<p>Stronger climate laws, fair finance, and a united Arab voice.</p>",
+              "image": "3181e066b7a515.jpg",
+              "alt": "Young people holding banners at a climate march",
+              "caption": "",
+              "url": "/en/initiatives------------",
+              "label": "",
+              "button": "",
+              "style": "primary"
+            }
+          ]
+        },
+        {
+          "layout": "split",
+          "tone": "light",
+          "hidden": false,
+          "kicker": "COP31",
+          "title": "COP31 in Antalya",
+          "body": "<p>Antalya, Türkiye, is preparing to host the UN Climate Change Conference, COP31, from 9 to 20 November 2026. CANARW follows this process so climate justice and community voices stay in the negotiations.</p>",
+          "button_label": "Our approach",
+          "button_url": "/en/about---------",
+          "items": [
+            {
+              "type": "image",
+              "image": "86a876e2c8624c.jpg",
+              "alt": "A regional gathering connected to the climate negotiations",
+              "caption": "",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "layout": "stats",
+          "tone": "soft",
+          "hidden": false,
+          "kicker": "IMPACT",
+          "title": "Climate impact",
+          "body": "<p>Figures already published by the network, alongside the work they point to.</p>",
+          "button_label": "About the network",
+          "button_url": "/en/about---------",
+          "items": [
+            {
+              "type": "card",
+              "title": "150+",
+              "html": "<p>Activities and training programs</p>",
+              "image": "",
+              "alt": "",
+              "caption": "",
+              "url": "",
+              "label": "",
+              "button": "",
+              "style": "primary"
+            },
+            {
+              "type": "card",
+              "title": "15",
+              "html": "<p>Trusted experts and partners</p>",
+              "image": "",
+              "alt": "",
+              "caption": "",
+              "url": "",
+              "label": "",
+              "button": "",
+              "style": "primary"
+            },
+            {
+              "type": "card",
+              "title": "COP31",
+              "html": "<p>A negotiation track the region is preparing for</p>",
+              "image": "",
+              "alt": "",
+              "caption": "",
+              "url": "",
+              "label": "",
+              "button": "",
+              "style": "primary"
+            },
+            {
+              "type": "card",
+              "title": "SDGs",
+              "html": "<p>Climate action linked to sustainable development</p>",
+              "image": "",
+              "alt": "",
+              "caption": "",
+              "url": "",
+              "label": "",
+              "button": "",
+              "style": "primary"
+            }
+          ]
+        },
+        {
+          "layout": "text",
+          "tone": "dark",
+          "hidden": false,
+          "kicker": "JOIN",
+          "title": "Join the network",
+          "body": "<p>Whether you are a civil society organization, a researcher, or a young person working for climate justice, there is a place for you in this collective effort.</p>",
+          "button_label": "Contact us",
+          "button_url": "/en/about---------",
+          "items": []
+        }
+      ]
+    },
+    {
+      "path": "/en/about---------",
+      "title": "About",
+      "language": "en",
+      "source": "https://www.canarw.org/en/about---------",
+      "description": "A coalition uniting Arab nonprofits to strengthen climate action. تحالف يضم منظمات غير ربحية لتعزيز العمل المناخي في العالم العربي.",
+      "sections": [
+        {
+          "layout": "split",
+          "title": "About Climate Action Network",
+          "body": "<p dir=\"auto\">We unite Arab organizations to tackle climate challenges together. نحن نوحد المنظمات العربية لمواجهة تحديات المناخ معًا.</p>",
+          "items": [
+            {
+              "type": "image",
+              "image": "fc89f0a367b4f5.jpg",
+              "alt": "A diverse group of people from the Arab region collaborating outdoors on climate initiatives.",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "html": "<h3 dir=\"auto\">150+</h3>"
+            },
+            {
+              "type": "text",
+              "html": "<h3 dir=\"auto\">15</h3>"
+            },
+            {
+              "type": "text",
+              "html": "<p dir=\"auto\">Trusted Partners</p>"
+            },
+            {
+              "type": "text",
+              "html": "<p dir=\"auto\">Global Reach</p>"
+            },
+            {
+              "type": "link",
+              "label": "Join Us",
+              "url": "/contact-as",
+              "style": "primary"
+            }
+          ],
+          "tone": "light",
+          "hidden": false
+        },
+        {
+          "layout": "gallery",
+          "title": "Gallery معرض",
+          "body": "<p dir=\"auto\">Snapshots of our journey toward a greener Arab world لقطات من رحلتنا نحو عالم عربي أكثر خضرة</p>",
+          "items": [
+            {
+              "type": "image",
+              "image": "111e96cc4fc499.jpg",
+              "alt": "A group of activists planting trees in a sunny desert area, symbolizing hope and renewal.",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "365bbadf4de09b.jpg",
+              "alt": "Community members gathered around a table discussing climate strategies with maps and charts.",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "c989f02ef01906.jpg",
+              "alt": "A vibrant street mural depicting the Arab world united for climate action under a clear blue sky.",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "e44b714581004a.jpg",
+              "alt": "Volunteers cleaning a coastal area, collecting plastic waste to protect marine life.",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "591333f868cdae.jpg",
+              "alt": "A workshop in progress with diverse participants sharing ideas on sustainable energy solutions.",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "568807f0dfccba.jpg",
+              "alt": "Sunset over a wind farm in the Arab region, highlighting renewable energy efforts.",
+              "caption": "",
+              "url": ""
+            }
+          ],
+          "tone": "soft",
+          "hidden": false
+        },
+        {
+          "layout": "contact",
+          "title": "Get in Touch تواصل معنا",
+          "body": "<p dir=\"auto\">We’re here to listen and collaborate on climate solutions. نحن هنا للاستماع والتعاون من أجل حلول مناخية.</p>",
+          "items": [
+            {
+              "type": "text",
+              "html": "<h6 dir=\"auto\"><strong>Phone هاتف</strong></h6>"
+            },
+            {
+              "type": "text",
+              "html": "<p dir=\"auto\">+971555123456</p>"
+            },
+            {
+              "type": "text",
+              "html": "<h6 dir=\"auto\"><strong>Email بريد</strong></h6>"
+            },
+            {
+              "type": "text",
+              "html": "<p dir=\"auto\">contact@canaw.org</p>"
+            },
+            {
+              "type": "contact",
+              "title": "",
+              "button": "Send Message"
+            }
+          ],
+          "tone": "light",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "path": "/en/initiatives------------",
+      "title": "Initiatives",
+      "language": "en",
+      "source": "https://www.canarw.org/en/initiatives------------",
+      "description": "Join شبكة العمل المناخي بالعالم العربي as we unite civil society for impactful climate solutions across the Arab region. انضم إلينا للعمل المناخي.",
+      "sections": [
+        {
+          "layout": "cards",
+          "title": "Projects مشاريع",
+          "body": "<p dir=\"auto\">Driving climate solutions across the Arab world. قيادة حلول المناخ في العالم العربي</p>",
+          "items": [
+            {
+              "type": "card",
+              "title": "Clean Energy الطاقة النظيفة",
+              "html": "<p dir=\"auto\">Promoting solar and wind projects. تعزيز مشاريع الطاقة الشمسية والرياح</p>",
+              "image": "50f013d718ac64.jpg",
+              "alt": "A group of diverse activists planting trees in a dry Arab landscape at sunrise.",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "Water Security أمن المياه",
+              "html": "<p dir=\"auto\">Innovative solutions for scarce water. حلول مبتكرة لمياه نادرة</p>",
+              "image": "fa9c282fecda61.jpg",
+              "alt": "Solar panels gleaming under a bright blue sky in a rural Arab village.",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "Youth Action شباب",
+              "html": "<p dir=\"auto\">Empowering young voices for change. تمكين الشباب من أجل التغيير</p>",
+              "image": "1d83574fc37692.jpg",
+              "alt": "Community members gathered around a water conservation workshop in an Arab town.",
+              "url": ""
+            },
+            {
+              "type": "card",
+              "title": "Policy Work السياسات",
+              "html": "<p dir=\"auto\">Advocating for stronger climate laws. الدعوة لقوانين مناخية أقوى</p>",
+              "image": "3181e066b7a515.jpg",
+              "alt": "Youth activists holding banners at a climate march in an Arab city.",
+              "url": ""
+            }
+          ],
+          "tone": "light",
+          "hidden": false
+        },
+        {
+          "layout": "gallery",
+          "title": "Gallery | معرض",
+          "body": "<p dir=\"auto\">Snapshots of our regional climate action moments | لقطات من لحظات العمل المناخي الإقليمية</p>",
+          "items": [
+            {
+              "type": "image",
+              "image": "a853fe240a8abe.jpg",
+              "alt": "A vibrant community gathering in the Arab world discussing climate solutions under a bright sky.",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "111e96cc4fc499.jpg",
+              "alt": "Volunteers planting trees in a desert area to combat desertification in the Arab region.",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "e1d41d82fc2367.jpg",
+              "alt": "A workshop session with diverse civil society members sharing ideas on climate resilience.",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "38891c481678cc.jpg",
+              "alt": "Youth activists holding banners advocating for clean energy in an urban Arab setting.",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "e44b714581004a.jpg",
+              "alt": "A coastal cleanup event with community members collecting plastic waste by the sea.",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "db9cae08bb5f65.jpg",
+              "alt": "A panel discussion featuring regional experts on climate policy and sustainable development.",
+              "caption": "",
+              "url": ""
+            }
+          ],
+          "tone": "soft",
+          "hidden": false
+        },
+        {
+          "layout": "gallery",
+          "title": "Our Story قصتنا",
+          "body": "<p dir=\"auto\">Uniting voices across the Arab world for climate justice. توحيد الأصوات في العالم العربي من أجل العدالة المناخية</p>",
+          "items": [
+            {
+              "type": "image",
+              "image": "fc89f0a367b4f5.jpg",
+              "alt": "A group of diverse activists gathered in a sunny outdoor meeting, discussing climate plans with maps and laptops.",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "link",
+              "label": "Join Us انضم",
+              "url": "/contact-as",
+              "style": "primary"
+            },
+            {
+              "type": "image",
+              "image": "6f8f22ac3c8661.jpg",
+              "alt": "A vibrant community event in the Arab region showcasing local efforts to protect the environment.",
+              "caption": "",
+              "url": ""
+            }
+          ],
+          "tone": "light",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "path": "/en/members-----------",
+      "title": "Members",
+      "language": "en",
+      "source": "https://www.canarw.org/en/members-----------",
+      "description": "Meet the dedicated members of شبكة العمل المناخي بالعالم العربي, uniting civil society for climate solutions across the Arab region. تعرف على أعضاء شبكتنا الذين يعملون معاً لمواجهة تحديات المناخ.",
+      "sections": [
+        {
+          "layout": "split",
+          "title": "About Us - من نحن",
+          "body": "<p dir=\"auto\">Climate Action Network Arab World unites voices for regional climate progress. شبكة العمل المناخي بالعالم العربي توحد الجهود المناخية في المنطقة.</p>",
+          "items": [
+            {
+              "type": "image",
+              "image": "e8f04db6c1d0c1.jpg",
+              "alt": "A diverse group of activists from the Arab world collaborating outdoors on climate projects.",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "html": "<h6 dir=\"auto\"><strong>Our Mission مهمتنا</strong></h6>"
+            },
+            {
+              "type": "text",
+              "html": "<h6 dir=\"auto\"><strong>Our Vision رؤيتنا</strong></h6>"
+            },
+            {
+              "type": "text",
+              "html": "<p dir=\"auto\">To strengthen climate action through cooperation among Arab civil societies. لتعزيز مواجهة التغير المناخي عبر تعاون المجتمع المدني العربي.</p>"
+            }
+          ],
+          "tone": "light",
+          "hidden": false
+        },
+        {
+          "layout": "gallery",
+          "title": "Together | معاً",
+          "body": "<p dir=\"auto\">Faces of change driving climate action across the Arab region | وجوه التغيير التي تقود العمل المناخي في المنطقة العربية</p>",
+          "items": [
+            {
+              "type": "image",
+              "image": "78385aed825747.jpg",
+              "alt": "A vibrant group photo of Climate Action Network Arab World members gathered outdoors, united in their mission.",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "111e96cc4fc499.jpg",
+              "alt": "Activists planting trees in a community event symbolizing growth and hope for a greener Arab world.",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "e1d41d82fc2367.jpg",
+              "alt": "A workshop scene where members exchange ideas and strategies to tackle climate challenges.",
+              "caption": "",
+              "url": ""
+            },
+            {
+              "type": "image",
+              "image": "cc37c53395bc82.jpg",
+              "alt": "A sunset silhouette of volunteers raising banners for climate justice at a peaceful rally.",
+              "caption": "",
+              "url": ""
+            }
+          ],
+          "tone": "soft",
+          "hidden": false
+        },
+        {
+          "layout": "gallery",
+          "title": "Contact اتصل",
+          "body": "<p dir=\"auto\">Reach out to CAN Arab World فريق شبكة العمل المناخي</p>",
+          "items": [
+            {
+              "type": "contact",
+              "title": "",
+              "button": "Send Message"
+            },
+            {
+              "type": "image",
+              "image": "04b1ddb865abec.jpg",
+              "alt": "gray computer monitor",
+              "caption": "",
+              "url": ""
+            }
+          ],
+          "tone": "light",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "path": "/en/page",
+      "title": "Store",
+      "language": "en",
+      "source": "https://www.canarw.org/en/page",
+      "description": "",
+      "sections": [
+        {
+          "layout": "gallery",
+          "title": "",
+          "body": "",
+          "items": [
+            {
+              "type": "image",
+              "image": "02b8a9b5ff8ed3.jpg",
+              "alt": "",
+              "caption": "",
+              "url": ""
+            }
+          ],
+          "tone": "light",
+          "hidden": false
+        }
+      ]
+    }
+  ],
+  "menus": {
+    "ar": [
+      {
+        "url": "/",
+        "label": "الرئيسية"
+      },
+      {
+        "url": "/members-and-people",
+        "label": "الأعضاء"
+      },
+      {
+        "url": "/climate-action",
+        "label": "العمل المناخي"
+      },
+      {
+        "url": "/contact-as",
+        "label": "تواصل معنا"
+      },
+      {
+        "url": "/cop3031",
+        "label": "COP30 و COP31"
+      },
+      {
+        "url": "/initiatives",
+        "label": "المبادرات"
+      },
+      {
+        "url": "/activates",
+        "label": "الأنشطة"
+      },
+      {
+        "url": "/sdgs",
+        "label": "أهداف التنمية"
+      },
+      {
+        "url": "/network-structure",
+        "label": "هيكل الشبكة"
+      },
+      {
+        "url": "/reports-and-resources",
+        "label": "التقارير والموارد"
+      },
+      {
+        "url": "/climate-justice",
+        "label": "العدالة المناخية"
+      },
+      {
+        "url": "/",
+        "label": "العربية"
+      },
+      {
+        "url": "/en",
+        "label": "English"
+      }
+    ],
+    "en": [
+      {
+        "url": "/",
+        "label": "Home"
+      },
+      {
+        "url": "/members-and-people",
+        "label": "Members"
+      },
+      {
+        "url": "/climate-action",
+        "label": "Climate action"
+      },
+      {
+        "url": "/contact-as",
+        "label": "Contact"
+      },
+      {
+        "url": "/cop3031",
+        "label": "COP30 & COP31"
+      },
+      {
+        "url": "/initiatives",
+        "label": "Initiatives"
+      },
+      {
+        "url": "/activates",
+        "label": "Activities"
+      },
+      {
+        "url": "/sdgs",
+        "label": "SDGs"
+      },
+      {
+        "url": "/network-structure",
+        "label": "Network structure"
+      },
+      {
+        "url": "/reports-and-resources",
+        "label": "Reports & resources"
+      },
+      {
+        "url": "/climate-justice",
+        "label": "Climate justice"
+      },
+      {
+        "url": "/",
+        "label": "العربية"
+      },
+      {
+        "url": "/en",
+        "label": "English"
+      }
+    ]
+  },
+  "options": {
+    "name": "Climate Action Network Arab World",
+    "tagline": "شبكة العمل المناخي — العالم العربي",
+    "logo": "0d8ecc7bb1bc9d.png",
+    "email": "info@canarw.org",
+    "location": "Arab Region",
+    "phone": "",
+    "primary": "#153b36",
+    "accent": "#bcda76",
+    "footer_text": "© 2026 Climate Action Network Arab World. All Rights Reserved. Privacy Policy | Terms of Use | Cookie Policy",
+    "footer_groups": [
+      {
+        "title": "Climate networks & institutions",
+        "links": [
+          {
+            "label": "Climate Action NetWork",
+            "url": "https://climatenetwork.org/"
+          },
+          {
+            "label": "UNFCCC",
+            "url": "https://unfccc.int/"
+          },
+          {
+            "label": "UNEP",
+            "url": "https://www.unep.org/"
+          },
+          {
+            "label": "Sama Al ebtikar foundation",
+            "url": "https://sama-sdgs.org/"
+          },
+          {
+            "label": "IPCC",
+            "url": "https://www.ipcc.ch/"
+          }
+        ]
+      },
+      {
+        "title": "Climate Data & Research",
+        "links": [
+          {
+            "label": "World Bank Climate Data",
+            "url": "https://climateknowledgeportal.worldbank.org/"
+          },
+          {
+            "label": "NASA Climate",
+            "url": "https://climate.nasa.gov/"
+          },
+          {
+            "label": "Our World in Data – Climate",
+            "url": "https://ourworldindata.org/climate-change"
+          }
+        ]
+      },
+      {
+        "title": "Climate Finance & Education",
+        "links": [
+          {
+            "label": "Green Climate Fund",
+            "url": "https://www.greenclimate.fund/"
+          },
+          {
+            "label": "Adaptation Fund",
+            "url": "https://www.adaptation-fund.org/"
+          },
+          {
+            "label": "UN CC:L",
+            "url": "https://www.uncclearn.org/"
+          },
+          {
+            "label": "Coursera – Climate & Sustainability Courses",
+            "url": "https://www.coursera.org/"
+          }
+        ]
+      }
+    ],
+    "partner_images": [
+      "0d8ecc7bb1bc9d.png",
+      "9e28753d8c3fd2.png",
+      "0b78520d74fbbe.png",
+      "d6fad762cfef8e.png",
+      "bcce8b66040d28.png",
+      "6ef8067b083d86.png",
+      "cfbf8c8ff0ab23.png"
+    ],
+    "socials": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/CANARABWORLD/?locale=ar_AR"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/canarabworld"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/canarabworld1"
+      }
+    ]
+  },
+  "media": [
+    {
+      "file": "68ceb2e9a6c26b.jpg",
+      "source": "https://images.unsplash.com/photo-1699556356362-2eedd7e8d339?auto=format&fit=crop&w=641&h=992",
+      "title": "A diverse group of people planting trees together under a bright sky symbolizing hope and unity in the Arab region",
+      "alt": "A diverse group of people planting trees together under a bright sky symbolizing hope and unity in the Arab region"
+    },
+    {
+      "file": "0d8ecc7bb1bc9d.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=399,fit=crop/juM0STvp9X9DT14y/knockout-wsBncvPK0EgY8tEL.png",
+      "title": "CANARW — شعار الشبكة",
+      "alt": "Climate Action Network Arab World"
+    },
+    {
+      "file": "33b0967f66d96e.jpg",
+      "source": "https://images.unsplash.com/photo-1674753746814-ef4bd90b7e09?auto=format&fit=crop&w=1224",
+      "title": "a couple of camels walking across a desert",
+      "alt": "a couple of camels walking across a desert"
+    },
+    {
+      "file": "70dabaf1531cd9.jpg",
+      "source": "https://images.unsplash.com/photo-1516937941344-00b4e0337589?auto=format&fit=crop&w=606&h=304",
+      "title": "factories with smoke under cloudy sky",
+      "alt": "factories with smoke under cloudy sky"
+    },
+    {
+      "file": "90466d21bdd1e1.jpg",
+      "source": "https://images.unsplash.com/photo-1700739773965-6c152505066f?auto=format&fit=crop&w=606&h=304",
+      "title": "Community members planting trees together in a desert region to combat climate change.",
+      "alt": "Community members planting trees together in a desert region to combat climate change."
+    },
+    {
+      "file": "226ee7a78e0fb2.jpg",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=476,fit=crop/juM0STvp9X9DT14y/photo-2025-12-25-11-50-17-yfDFYHWxUTQxHcWl.jpeg",
+      "title": "Dr.Sami Al Mabruk",
+      "alt": "Dr.Sami Al Mabruk"
+    },
+    {
+      "file": "634c5066fb9ef8.jpg",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=476,fit=crop/juM0STvp9X9DT14y/design-image-mESTKsKusKk51mU2.jpeg",
+      "title": "Mohamed Kamel",
+      "alt": "Mohamed Kamel"
+    },
+    {
+      "file": "df72e0b0ee9b4a.jpg",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=473,fit=crop/juM0STvp9X9DT14y/bazaart_ffdb5df8-1440-4813-9ec1-074d483ef038-bXWyVvXjQ9saMS2i.jpeg",
+      "title": "Eng.Raad Kurdi",
+      "alt": "Eng.Raad Kurdi"
+    },
+    {
+      "file": "83134a22571507.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=473,fit=crop/juM0STvp9X9DT14y/knockout-PiGS5JZ65USxY7bF.png",
+      "title": "Dr.Rola al haji",
+      "alt": "Dr.Rola al haji"
+    },
+    {
+      "file": "1cdad8d2a102af.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,fit=crop/juM0STvp9X9DT14y/green-clean-corporate-organizational-chart-mdXppc4sgIDSVeJD.png",
+      "title": "MEMBERS & PEOPLE — Members - الأعضاء 1",
+      "alt": ""
+    },
+    {
+      "file": "7444afc07d8c14.jpg",
+      "source": "https://images.unsplash.com/photo-1717869884413-30d053b54711?auto=format&fit=crop&w=1920",
+      "title": "a large iceberg in the middle of a body of water",
+      "alt": "a large iceberg in the middle of a body of water"
+    },
+    {
+      "file": "2fe363b49f2d46.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=761,fit=crop/juM0STvp9X9DT14y/untitled-1y7GZofQvvuPfJu3.png",
+      "title": "Climate action — Our Climate Commitment 1",
+      "alt": ""
+    },
+    {
+      "file": "0b78520d74fbbe.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=377,fit=crop/juM0STvp9X9DT14y/img_1221-NIlhpkQ0VJz4NRMH.png",
+      "title": "Climate action — Our Climate Commitment 6",
+      "alt": ""
+    },
+    {
+      "file": "3e741729bec93d.jpg",
+      "source": "https://images.unsplash.com/photo-1698692026209-8fd9a661d61a?auto=format&fit=crop&w=503&h=360",
+      "title": "A group of diverse activists planting trees in a sunlit desert landscape.",
+      "alt": "A group of diverse activists planting trees in a sunlit desert landscape."
+    },
+    {
+      "file": "cfc1f20003baaf.jpg",
+      "source": "https://images.unsplash.com/photo-1682341847717-ce25b56f08ed?auto=format&fit=crop&w=503&h=360",
+      "title": "Community members installing solar panels on a rooftop in a small village.",
+      "alt": "Community members installing solar panels on a rooftop in a small village."
+    },
+    {
+      "file": "8764f76419b43c.jpg",
+      "source": "https://images.unsplash.com/photo-1557734864-c78b6dfef1b1?auto=format&fit=crop&w=503&h=360",
+      "title": "Workshop with local leaders discussing climate resilience strategies around a table.",
+      "alt": "Workshop with local leaders discussing climate resilience strategies around a table."
+    },
+    {
+      "file": "2c6778bf386ced.jpg",
+      "source": "https://images.unsplash.com/photo-1639769458812-d2744f33036b?auto=format&fit=crop&w=503&h=360",
+      "title": "Children playing near a restored wetland area flourishing with native plants.",
+      "alt": "Children playing near a restored wetland area flourishing with native plants."
+    },
+    {
+      "file": "f145273e43ccca.jpg",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=753,fit=crop/juM0STvp9X9DT14y/design-image-gi76hE4dsTJ4cGPw.jpeg",
+      "title": "Climate action — شبكة العمل المناخي – العالم العربي وأهمية مؤتمر SB64 في بون، ألمانيا 1",
+      "alt": ""
+    },
+    {
+      "file": "0fa7d745d8be2e.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=211,fit=crop/juM0STvp9X9DT14y/knockout-o3Vpgpb9nvct4ac1.png",
+      "title": "CONTACT AS — Contact Us 2",
+      "alt": ""
+    },
+    {
+      "file": "02b8a9b5ff8ed3.jpg",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/juM0STvp9X9DT14y/design-image-PbTJW4ZqRYMwemrY.jpeg",
+      "title": "CONTACT AS — Contact Us 3",
+      "alt": ""
+    },
+    {
+      "file": "b2f90b9b19ddd9.jpg",
+      "source": "https://images.unsplash.com/photo-1684145344919-4dd45da4eef1?auto=format&fit=crop&w=1920",
+      "title": "gray computer monitor",
+      "alt": "gray computer monitor"
+    },
+    {
+      "file": "86a876e2c8624c.jpg",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/juM0STvp9X9DT14y/design-image-S2mTYbouOIO0WcqD.jpeg",
+      "title": "COP30,31, — صورة 1",
+      "alt": ""
+    },
+    {
+      "file": "2c43c444a5bfc0.jpg",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=753,fit=crop/juM0STvp9X9DT14y/design-image-PLbFrCilo4YgEYMy.jpeg",
+      "title": "COP30,31, — أنطاليا تستعد لاستضافة COP31 نحو مرحلة جديدة من العمل المناخي العالم 1",
+      "alt": ""
+    },
+    {
+      "file": "1fd9d42f4a00d0.jpg",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=752,fit=crop/juM0STvp9X9DT14y/design-image-C7gozWLz6PWuBopm.jpeg",
+      "title": "COP30,31, — أنطاليا تستعد لاستضافة COP31 نحو مرحلة جديدة من العمل المناخي العالم 4",
+      "alt": ""
+    },
+    {
+      "file": "aca4ccd7631b2c.jpg",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=773,fit=crop/juM0STvp9X9DT14y/design-image-gteYU2vjztyhD1fZ.jpeg",
+      "title": "COP30,31, — أنطاليا تستعد لاستضافة COP31 نحو مرحلة جديدة من العمل المناخي العالم 7",
+      "alt": ""
+    },
+    {
+      "file": "ad2f6cba9ae69e.jpg",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=776,fit=crop/juM0STvp9X9DT14y/design-image-dXuuRvEuDABRNHkb.jpeg",
+      "title": "COP30,31, — أنطاليا تستعد لاستضافة COP31 نحو مرحلة جديدة من العمل المناخي العالم 8",
+      "alt": ""
+    },
+    {
+      "file": "50f013d718ac64.jpg",
+      "source": "https://images.unsplash.com/photo-1599496241598-f109f21f069c?auto=format&fit=crop&w=503&h=360",
+      "title": "A group of diverse activists planting trees in a dry Arab landscape at sunrise.",
+      "alt": "A group of diverse activists planting trees in a dry Arab landscape at sunrise."
+    },
+    {
+      "file": "fa9c282fecda61.jpg",
+      "source": "https://images.unsplash.com/photo-1698755394258-3c2c3dd9448f?auto=format&fit=crop&w=503&h=360",
+      "title": "Solar panels gleaming under a bright blue sky in a rural Arab village.",
+      "alt": "Solar panels gleaming under a bright blue sky in a rural Arab village."
+    },
+    {
+      "file": "1d83574fc37692.jpg",
+      "source": "https://images.unsplash.com/photo-1559579337-d58fbc4187da?auto=format&fit=crop&w=503&h=360",
+      "title": "Community members gathered around a water conservation workshop in an Arab town.",
+      "alt": "Community members gathered around a water conservation workshop in an Arab town."
+    },
+    {
+      "file": "3181e066b7a515.jpg",
+      "source": "https://images.unsplash.com/photo-1552658249-ffe45eea0821?auto=format&fit=crop&w=503&h=360",
+      "title": "Youth activists holding banners at a climate march in an Arab city.",
+      "alt": "Youth activists holding banners at a climate march in an Arab city."
+    },
+    {
+      "file": "b64968cadb06bb.jpg",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/juM0STvp9X9DT14y/design-image-jl6b7hVOjSQL2K4z.jpeg",
+      "title": "Initiatives — صورة 1",
+      "alt": ""
+    },
+    {
+      "file": "bf0bffee418254.jpg",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/juM0STvp9X9DT14y/design-image-udImPFAV2KmFbNdX.jpeg",
+      "title": "Initiatives — صورة 2",
+      "alt": ""
+    },
+    {
+      "file": "551aa46e55e078.jpg",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/juM0STvp9X9DT14y/design-image-6gmIBZujql02QK0v.jpeg",
+      "title": "Initiatives — صورة 4",
+      "alt": ""
+    },
+    {
+      "file": "ca470da47ef2ae.jpg",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/juM0STvp9X9DT14y/design-image-Om1Ks9jCIjB8L3Jx.jpeg",
+      "title": "Initiatives — صورة 5",
+      "alt": ""
+    },
+    {
+      "file": "e2b7d099bde2fa.jpg",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/juM0STvp9X9DT14y/design-image-TcIsTpUaBgeQEfwk.jpeg",
+      "title": "Initiatives — صورة 6",
+      "alt": ""
+    },
+    {
+      "file": "06aacd7614ceca.jpg",
+      "source": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?auto=format&fit=crop&w=1018&h=544",
+      "title": "white and black ship on sea under white clouds",
+      "alt": "white and black ship on sea under white clouds"
+    },
+    {
+      "file": "7b836f9137232f.jpg",
+      "source": "https://images.unsplash.com/photo-1593349783603-654a7069d88d?auto=format&fit=crop&w=194&h=202",
+      "title": "brown and black concrete floor",
+      "alt": "brown and black concrete floor"
+    },
+    {
+      "file": "e1d41d82fc2367.jpg",
+      "source": "https://images.unsplash.com/photo-1560849144-739435323954?auto=format&fit=crop&w=194&h=202",
+      "title": "A workshop session with diverse civil society members sharing ideas on climate resilience.",
+      "alt": "A workshop session with diverse civil society members sharing ideas on climate resilience."
+    },
+    {
+      "file": "fc89f0a367b4f5.jpg",
+      "source": "https://images.unsplash.com/photo-1572325393822-0e1324eb2755?auto=format&fit=crop&w=400&h=560",
+      "title": "A group of diverse activists gathered in a sunny outdoor meeting, discussing climate plans with maps and laptops.",
+      "alt": "A group of diverse activists gathered in a sunny outdoor meeting, discussing climate plans with maps and laptops."
+    },
+    {
+      "file": "6f8f22ac3c8661.jpg",
+      "source": "https://images.unsplash.com/photo-1609721921557-940c27605e3e?auto=format&fit=crop&w=400&h=560",
+      "title": "A vibrant community event in the Arab region showcasing local efforts to protect the environment.",
+      "alt": "A vibrant community event in the Arab region showcasing local efforts to protect the environment."
+    },
+    {
+      "file": "58ff68d6938267.jpg",
+      "source": "https://images.unsplash.com/photo-1655337690801-a83db5cc6b60?auto=format&fit=crop&w=548&h=544",
+      "title": "A lively group of people participating in a hands-on training session in a bright, welcoming room.",
+      "alt": "A lively group of people participating in a hands-on training session in a bright, welcoming room."
+    },
+    {
+      "file": "241efea8364104.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=372,fit=crop/juM0STvp9X9DT14y/img_1909-PjLpGbQRx3dA5DdH.png",
+      "title": "Sdgs — صورة 1",
+      "alt": ""
+    },
+    {
+      "file": "9ba126bd4fdb38.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=354,fit=crop/juM0STvp9X9DT14y/img_1910-xJH18mK643e34eVw.png",
+      "title": "Sdgs — صورة 2",
+      "alt": ""
+    },
+    {
+      "file": "e9ab65166995f9.gif",
+      "source": "https://assets.zyrosite.com/juM0STvp9X9DT14y/img_1916-2CMakq4n0nd0nuQD.gif",
+      "title": "Sdgs — صورة 3",
+      "alt": ""
+    },
+    {
+      "file": "c8e831e52bee7b.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=354,fit=crop/juM0STvp9X9DT14y/img_1915-PsBFiM3J6U5UzY1i.png",
+      "title": "Sdgs — صورة 4",
+      "alt": ""
+    },
+    {
+      "file": "bf26e8d78c2e5e.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=354,fit=crop/juM0STvp9X9DT14y/img_1908-xEaqIEDjMWzJUQXP.png",
+      "title": "Sdgs — صورة 5",
+      "alt": ""
+    },
+    {
+      "file": "922ee27f5aa007.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=354,fit=crop/juM0STvp9X9DT14y/img_1912-FbaWRCmXLf6GrwSn.png",
+      "title": "Sdgs — صورة 6",
+      "alt": ""
+    },
+    {
+      "file": "f0e1ec9949aa83.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=354,fit=crop/juM0STvp9X9DT14y/img_1903-OwwcDw6wPlCKTb9e.png",
+      "title": "Sdgs — صورة 7",
+      "alt": ""
+    },
+    {
+      "file": "51f91d95e9fa66.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=354,fit=crop/juM0STvp9X9DT14y/img_1786-ptA99v737HiF0nRM.png",
+      "title": "Sdgs — صورة 8",
+      "alt": ""
+    },
+    {
+      "file": "3499d1b7ea5433.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=354,fit=crop/juM0STvp9X9DT14y/img_1907-gufSjkFumcUQdEC9.png",
+      "title": "Sdgs — صورة 9",
+      "alt": ""
+    },
+    {
+      "file": "59c8667b6f60d9.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=354,fit=crop/juM0STvp9X9DT14y/img_1913-D7rwzCQI3VOyJKA0.png",
+      "title": "Sdgs — صورة 10",
+      "alt": ""
+    },
+    {
+      "file": "1eac8da592747e.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=354,fit=crop/juM0STvp9X9DT14y/img_1905-INzYOCbby5THMzU6.png",
+      "title": "Sdgs — صورة 11",
+      "alt": ""
+    },
+    {
+      "file": "b3b58eee577bd1.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=354,fit=crop/juM0STvp9X9DT14y/img_1906-ffCqyEa1k7atrqUl.png",
+      "title": "Sdgs — صورة 12",
+      "alt": ""
+    },
+    {
+      "file": "e644a2ac0b33c1.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=354,fit=crop/juM0STvp9X9DT14y/img_1898-nruDIGyGKNymLR2S.png",
+      "title": "Sdgs — صورة 13",
+      "alt": ""
+    },
+    {
+      "file": "3a8ec857637040.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=354,fit=crop/juM0STvp9X9DT14y/img_1904-84gdMXqLiXU3mRL0.png",
+      "title": "Sdgs — صورة 14",
+      "alt": ""
+    },
+    {
+      "file": "fc408a447b835b.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=354,fit=crop/juM0STvp9X9DT14y/img_1911-QQCiDtCXPfFrXSYz.png",
+      "title": "Sdgs — صورة 15",
+      "alt": ""
+    },
+    {
+      "file": "92fc7c4469f0b0.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=354,fit=crop/juM0STvp9X9DT14y/img_1917-0ofYdxCTfuzDhcKA.png",
+      "title": "Sdgs — صورة 16",
+      "alt": ""
+    },
+    {
+      "file": "3e5e8b5da3f18a.jpg",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=354,fit=crop/juM0STvp9X9DT14y/img_1901-39mvFUC7bx0dPh5M.jpeg",
+      "title": "Sdgs — صورة 17",
+      "alt": ""
+    },
+    {
+      "file": "1888ddf72566c7.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=354,fit=crop/juM0STvp9X9DT14y/img_1897-R76LcAWDgQkSFXgT.png",
+      "title": "Sdgs — صورة 18",
+      "alt": ""
+    },
+    {
+      "file": "b0eb1673c13ba5.gif",
+      "source": "https://assets.zyrosite.com/juM0STvp9X9DT14y/img_1918-r9WJXzPpTjswv8bA.gif",
+      "title": "Sdgs — صورة 19",
+      "alt": ""
+    },
+    {
+      "file": "eb1907e5dd4615.gif",
+      "source": "https://assets.zyrosite.com/juM0STvp9X9DT14y/img_1919-HwiB5PxbHSIIFKso.gif",
+      "title": "Sdgs — صورة 20",
+      "alt": ""
+    },
+    {
+      "file": "dad6eb57056de3.jpg",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=122,fit=crop/juM0STvp9X9DT14y/img_2060-iKf1tqeUGq3SYEtS.jpeg",
+      "title": "Sdgs — صورة 21",
+      "alt": ""
+    },
+    {
+      "file": "f0361b623774ab.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/juM0STvp9X9DT14y/img_2059-A7RgQKQ89M9H1aYe.png",
+      "title": "Sdgs — صورة 1",
+      "alt": ""
+    },
+    {
+      "file": "bb0bed04f9f828.jpg",
+      "source": "https://images.unsplash.com/photo-1643101807331-21a4a3f081d5?auto=format&fit=crop&w=503&h=360",
+      "title": "Diagram illustrating governance layers within the network",
+      "alt": "Diagram illustrating governance layers within the network"
+    },
+    {
+      "file": "30cf9dab802029.jpg",
+      "source": "https://images.unsplash.com/photo-1640342079392-848dd88362f8?auto=format&fit=crop&w=503&h=360",
+      "title": "Group of representatives coordinating around a table",
+      "alt": "Group of representatives coordinating around a table"
+    },
+    {
+      "file": "aaa9a14ef99e48.jpg",
+      "source": "https://images.unsplash.com/photo-1619107278445-1c70db80eb9d?auto=format&fit=crop&w=503&h=360",
+      "title": "Visual flowchart showing decision-making processes",
+      "alt": "Visual flowchart showing decision-making processes"
+    },
+    {
+      "file": "45916bc0bb7959.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=431,fit=crop/juM0STvp9X9DT14y/img_1923-v3JARa1tSi36MABr.png",
+      "title": "Reports and Resources — صورة 3",
+      "alt": ""
+    },
+    {
+      "file": "73d0e0c05f4bca.jpg",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=431,fit=crop/juM0STvp9X9DT14y/img_1924-uXrq3tjRFWwzMc1F.jpeg",
+      "title": "Reports and Resources — صورة 4",
+      "alt": ""
+    },
+    {
+      "file": "158004c7167f69.jpg",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=431,fit=crop/juM0STvp9X9DT14y/img_1926-GLMKruKZMSyayHHH.jpeg",
+      "title": "Reports and Resources — صورة 5",
+      "alt": ""
+    },
+    {
+      "file": "ccc769ffa4ca82.jpg",
+      "source": "https://images.unsplash.com/photo-1584443348278-4789e86c7373?auto=format&fit=crop&w=400&h=304",
+      "title": "black blue and yellow textile",
+      "alt": "black blue and yellow textile"
+    },
+    {
+      "file": "bc69308f02c0bc.jpg",
+      "source": "https://images.unsplash.com/photo-1563164232-b6ee5dd3e821?auto=format&fit=crop&w=400&h=304",
+      "title": "a man riding a skateboard down the side of a ramp",
+      "alt": "a man riding a skateboard down the side of a ramp"
+    },
+    {
+      "file": "29361713bdf925.jpg",
+      "source": "https://images.unsplash.com/photo-1524685364536-a6f820f6c5ce?auto=format&fit=crop&w=400&h=304",
+      "title": "a man riding a skateboard down a street next to tall buildings",
+      "alt": "a man riding a skateboard down a street next to tall buildings"
+    },
+    {
+      "file": "8b142e974e1703.jpg",
+      "source": "https://images.unsplash.com/photo-1630012408774-f4a4004d37e8?auto=format&fit=crop&w=606&h=304",
+      "title": "A diverse group of activists holding banners at a climate march in an Arab city.",
+      "alt": "A diverse group of activists holding banners at a climate march in an Arab city."
+    },
+    {
+      "file": "111e96cc4fc499.jpg",
+      "source": "https://images.unsplash.com/photo-1698827623344-24b7d14e57a8?auto=format&fit=crop&w=606&h=464",
+      "title": "A group of activists planting trees in a sunny desert area, symbolizing hope and renewal.",
+      "alt": "A group of activists planting trees in a sunny desert area, symbolizing hope and renewal."
+    },
+    {
+      "file": "365bbadf4de09b.jpg",
+      "source": "https://images.unsplash.com/photo-1624259395247-f57268575d69?auto=format&fit=crop&w=606&h=464",
+      "title": "Community members gathered around a table discussing climate strategies with maps and charts.",
+      "alt": "Community members gathered around a table discussing climate strategies with maps and charts."
+    },
+    {
+      "file": "c989f02ef01906.jpg",
+      "source": "https://images.unsplash.com/photo-1685449631960-99c15ecb56bb?auto=format&fit=crop&w=606&h=464",
+      "title": "A vibrant street mural depicting the Arab world united for climate action under a clear blue sky.",
+      "alt": "A vibrant street mural depicting the Arab world united for climate action under a clear blue sky."
+    },
+    {
+      "file": "e44b714581004a.jpg",
+      "source": "https://images.unsplash.com/photo-1616680213669-92c78de95f38?auto=format&fit=crop&w=606&h=464",
+      "title": "Volunteers cleaning a coastal area, collecting plastic waste to protect marine life.",
+      "alt": "Volunteers cleaning a coastal area, collecting plastic waste to protect marine life."
+    },
+    {
+      "file": "591333f868cdae.jpg",
+      "source": "https://images.unsplash.com/photo-1697321150897-b5323e6bed79?auto=format&fit=crop&w=606&h=464",
+      "title": "A workshop in progress with diverse participants sharing ideas on sustainable energy solutions.",
+      "alt": "A workshop in progress with diverse participants sharing ideas on sustainable energy solutions."
+    },
+    {
+      "file": "568807f0dfccba.jpg",
+      "source": "https://images.unsplash.com/photo-1649584583960-c0371be619f4?auto=format&fit=crop&w=606&h=464",
+      "title": "Sunset over a wind farm in the Arab region, highlighting renewable energy efforts.",
+      "alt": "Sunset over a wind farm in the Arab region, highlighting renewable energy efforts."
+    },
+    {
+      "file": "a853fe240a8abe.jpg",
+      "source": "https://images.unsplash.com/photo-1690014458240-55fb1efcd5f7?auto=format&fit=crop&w=1018&h=544",
+      "title": "A vibrant community gathering in the Arab world discussing climate solutions under a bright sky.",
+      "alt": "A vibrant community gathering in the Arab world discussing climate solutions under a bright sky."
+    },
+    {
+      "file": "38891c481678cc.jpg",
+      "source": "https://images.unsplash.com/photo-1699561252880-25ca61786891?auto=format&fit=crop&w=194&h=202",
+      "title": "Youth activists holding banners advocating for clean energy in an urban Arab setting.",
+      "alt": "Youth activists holding banners advocating for clean energy in an urban Arab setting."
+    },
+    {
+      "file": "db9cae08bb5f65.jpg",
+      "source": "https://images.unsplash.com/photo-1561491432-82f2b22a263e?auto=format&fit=crop&w=194&h=202",
+      "title": "A panel discussion featuring regional experts on climate policy and sustainable development.",
+      "alt": "A panel discussion featuring regional experts on climate policy and sustainable development."
+    },
+    {
+      "file": "e8f04db6c1d0c1.jpg",
+      "source": "https://images.unsplash.com/photo-1699740717915-c3c40311e833?auto=format&fit=crop&w=1224&h=424",
+      "title": "A diverse group of activists from the Arab world collaborating outdoors on climate projects.",
+      "alt": "A diverse group of activists from the Arab world collaborating outdoors on climate projects."
+    },
+    {
+      "file": "78385aed825747.jpg",
+      "source": "https://images.unsplash.com/photo-1668502773703-8b027a001150?auto=format&fit=crop&w=503&h=464",
+      "title": "A vibrant group photo of Climate Action Network Arab World members gathered outdoors, united in their mission.",
+      "alt": "A vibrant group photo of Climate Action Network Arab World members gathered outdoors, united in their mission."
+    },
+    {
+      "file": "cc37c53395bc82.jpg",
+      "source": "https://images.unsplash.com/photo-1494192583048-c236a32417e9?auto=format&fit=crop&w=503&h=464",
+      "title": "A sunset silhouette of volunteers raising banners for climate justice at a peaceful rally.",
+      "alt": "A sunset silhouette of volunteers raising banners for climate justice at a peaceful rally."
+    },
+    {
+      "file": "04b1ddb865abec.jpg",
+      "source": "https://images.unsplash.com/photo-1681900619353-92200b6681da?auto=format&fit=crop&w=1920",
+      "title": "gray computer monitor",
+      "alt": "gray computer monitor"
+    },
+    {
+      "file": "9e28753d8c3fd2.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/juM0STvp9X9DT14y/knockout-qthGeQVg3de6FoZz.png",
+      "title": "CANARW — صورة مرفقة",
+      "alt": ""
+    },
+    {
+      "file": "d6fad762cfef8e.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=361,fit=crop/juM0STvp9X9DT14y/knockout-lj0sXc4OPCe8UK8o.png",
+      "title": "CANARW — صورة مرفقة",
+      "alt": ""
+    },
+    {
+      "file": "bcce8b66040d28.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=94,fit=crop/juM0STvp9X9DT14y/img_1872-DjecC5PeHpvXqOAX.png",
+      "title": "CANARW — صورة مرفقة",
+      "alt": ""
+    },
+    {
+      "file": "6ef8067b083d86.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=249,fit=crop/juM0STvp9X9DT14y/knockout-PPhqxIGwtHiTCnkB.png",
+      "title": "CANARW — صورة مرفقة",
+      "alt": ""
+    },
+    {
+      "file": "cfbf8c8ff0ab23.png",
+      "source": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=427,fit=crop/juM0STvp9X9DT14y/img_1071-xInffs65fhoTBymf.png",
+      "title": "CANARW — صورة مرفقة",
+      "alt": ""
+    }
+  ]
+}

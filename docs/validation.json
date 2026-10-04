@@ -1,0 +1,56 @@
+{
+  "wordpress": "7.1.2",
+  "php": "8.3.6",
+  "tested_at": "2026-10-04",
+  "pages_verified": 16,
+  "media_bundled": 91,
+  "passed_checks": [
+    "installable theme structure",
+    "import through authenticated admin AJAX",
+    "text editing and frontend readback",
+    "WordPress media selector and frontend readback",
+    "previous-content restoration",
+    "repeat import preserves edits and avoids duplicate pages",
+    "contact form submission and private admin message readback",
+    "Arabic RTL and English LTR",
+    "mobile navigation and keyboard close",
+    "desktop and mobile overflow checks",
+    "all source pages return HTTP 200",
+    "all page images loaded from local uploads",
+    "no browser JavaScript errors",
+    "server sanitation of markup and URLs",
+    "subscriber edit restrictions",
+    "contact message administrator capabilities",
+    "Complete layout direction for all 16 pages at desktop and mobile widths",
+    "Language switch, mirrored hero placement, English logo link, and search language",
+    "Visible editor toolbars, Arabic controls, live writing direction, and mobile editor",
+    "Visual typing, bold, table insert/row/column/delete, undo/redo, and search/replace",
+    "Media inserted in text, HTML mode, clone/reorder/delete lifecycle, save/reload and responsive frontend table",
+    "Saved page language changes the entire template, editor direction, and Ctrl+S saves from the visual editor",
+    "gallery, audio and video shortcode rendering",
+    "font size/color and deliberate paragraph direction survive sanitation",
+    "legacy auto direction follows selected page language",
+    "repeated visual editor disposal and section reordering",
+    "all PHP and JavaScript syntax checks"
+  ],
+  "limitations": [
+    "email delivery depends on host configuration and was not sent during testing",
+    "Store snapshot does not implement checkout",
+    "WordPress test database used SQLite; production database credentials are not included"
+  ],
+  "theme_version": "1.1.0",
+  "visual_editor_checks": {
+    "passed": true,
+    "checks": [
+      "Complete layout direction for all 16 pages at desktop and mobile widths",
+      "Language switch, mirrored hero placement, English logo link, and search language",
+      "Visible editor toolbars, Arabic controls, live writing direction, and mobile editor",
+      "Visual typing, bold, table insert/row/column/delete, undo/redo, and search/replace",
+      "Media inserted in text, HTML mode, clone/reorder/delete lifecycle, save/reload and responsive frontend table",
+      "Saved page language changes the entire template, editor direction, and Ctrl+S saves from the visual editor"
+    ],
+    "errors": [],
+    "consoleErrors": [],
+    "failedAssets": []
+  }
+}
