@@ -1773,6 +1773,10 @@
         "label": "المدونة"
       },
       {
+        "url": "/documents",
+        "label": "وثائق وبحوث"
+      },
+      {
         "url": "/members-and-people",
         "label": "الأعضاء"
       },
@@ -1829,6 +1833,10 @@
       {
         "url": "/blog",
         "label": "Blog"
+      },
+      {
+        "url": "/documents",
+        "label": "Documents & research"
       },
       {
         "url": "/members-and-people",

@@ -48,6 +48,8 @@ function canarw_menu_labels() {
         '/climate-justice' => array( 'ar' => 'العدالة المناخية', 'en' => 'Climate justice' ),
         '/blog' => array( 'ar' => 'المدونة', 'en' => 'Blog' ),
         '/en/blog' => array( 'ar' => 'المدونة', 'en' => 'Blog' ),
+        '/documents' => array( 'ar' => 'وثائق وبحوث', 'en' => 'Documents & research' ),
+        '/en/documents' => array( 'ar' => 'وثائق وبحوث', 'en' => 'Documents & research' ),
         '/en/about---------' => array( 'ar' => 'من نحن', 'en' => 'About' ),
         '/en/page' => array( 'ar' => 'المتجر', 'en' => 'Store' ),
     );
@@ -291,6 +293,7 @@ function canarw_filter_menu_link( $atts, $item ) {
     }
     if ( canarw_is_english() && '/' === $path ) { $atts['href'] = canarw_permalink_for_source( '/en' ); }
     if ( canarw_is_english() && '/blog' === $path ) { $atts['href'] = canarw_permalink_for_source( '/en/blog' ); }
+    if ( canarw_is_english() && '/documents' === $path ) { $atts['href'] = canarw_permalink_for_source( '/en/documents' ); }
     return $atts;
 }
 function canarw_ensure_arabic_front() {

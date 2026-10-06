@@ -3,6 +3,10 @@ defined( 'ABSPATH' ) || exit;
 
 function canarw_language_url() {
     $id = get_queried_object_id();
+    if ( $id && 'canarw_document' === get_post_type( $id ) ) {
+        $url = get_permalink( $id );
+        return canarw_is_english() ? remove_query_arg( 'canarw_lang', $url ) : add_query_arg( 'canarw_lang', 'en', $url );
+    }
     $path = (string) get_post_meta( $id, '_canarw_source_path', true );
     if ( ! $path && $id ) {
         $uri = trim( (string) get_page_uri( $id ), '/' );
@@ -16,6 +20,7 @@ function canarw_language_url() {
         '/contact-as' => '/en/about---------',
         '/activates' => '/en/about---------',
         '/blog' => '/en/blog',
+        '/documents' => '/en/documents',
     );
     $english = canarw_is_english( $id ) || '/en' === $path || 0 === strpos( $path, '/en/' );
     if ( $english ) {
