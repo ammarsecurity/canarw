@@ -15,6 +15,7 @@ function canarw_language_url() {
         '/climate-action' => '/en/about---------',
         '/contact-as' => '/en/about---------',
         '/activates' => '/en/about---------',
+        '/blog' => '/en/blog',
     );
     $english = canarw_is_english( $id ) || '/en' === $path || 0 === strpos( $path, '/en/' );
     if ( $english ) {
@@ -119,7 +120,9 @@ function canarw_render_page( $id ) {
                 if ( $canarw_body ) { echo '<div class="prose">' . canarw_content_html( $canarw_body ) . '</div>'; }
                 echo '</div>';
             }
-            if ( 'split' === $layout ) {
+            if ( 'news' === $layout ) {
+                canarw_render_news( 10 );
+            } elseif ( 'split' === $layout ) {
                 $text = array_filter( $s['items'], function( $i ) { return 'image' !== $i['type']; } );
                 $images = array_filter( $s['items'], function( $i ) { return 'image' === $i['type']; } );
                 echo '<div class="split-grid' . ( ! $images || ! $text ? ' single-column' : '' ) . '"><div class="split-copy">';

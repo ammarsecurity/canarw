@@ -51,6 +51,8 @@ function canarw_admin_start( $active, $title, $subtitle = '' ) {
     }
     echo '<div class="canarw-admin" dir="rtl"><aside class="ca-sidebar"><a class="ca-admin-brand" href="' . esc_url( admin_url( 'admin.php?page=canarw' ) ) . '"><span>CANARW</span><small>إدارة الموقع</small></a><nav>';
     foreach ( $tabs as $slug => $tab ) { echo '<a class="' . ( $slug === $active ? 'active' : '' ) . '" href="' . esc_url( admin_url( 'admin.php?page=' . $slug ) ) . '"><span class="dashicons dashicons-' . esc_attr( $tab[1] ) . '"></span>' . esc_html( $tab[0] ) . '</a>'; }
+    if ( current_user_can( 'edit_posts' ) ) { echo '<a href="' . esc_url( admin_url( 'edit.php' ) ) . '"><span class="dashicons dashicons-admin-post"></span>المدونة</a>'; }
+    if ( current_user_can( 'manage_categories' ) ) { echo '<a href="' . esc_url( admin_url( 'edit-tags.php?taxonomy=category' ) ) . '"><span class="dashicons dashicons-category"></span>أقسام المدونة</a>'; }
     echo '</nav><a class="ca-site-link" href="' . esc_url( home_url( '/' ) ) . '" target="_blank" rel="noopener">زيارة الموقع ↗</a></aside><div class="ca-main"><header class="ca-page-heading"><div><span class="ca-eyebrow">CANARW / CONTENT MANAGEMENT</span><h1>' . esc_html( $title ) . '</h1><p>' . esc_html( $subtitle ) . '</p></div><span class="ca-version">v' . esc_html( CANARW_VERSION ) . '</span></header>';
     if ( isset( $_GET['saved'] ) ) { echo '<div class="ca-alert" role="status">تم حفظ التغييرات بنجاح.</div>'; }
     if ( isset( $_GET['restored'] ) ) { echo '<div class="ca-alert" role="status">تمت استعادة آخر نسخة محفوظة.</div>'; }
@@ -67,7 +69,7 @@ function canarw_admin_dashboard() {
     foreach ( array( array( count( $pages ), 'صفحة', 'edit-page' ), array( $sections, 'قسم قابل للتعديل', 'screenoptions' ), array( count( (array) get_option( 'canarw_media_map', array() ) ), 'صورة مستوردة', 'format-image' ), array( $msgs->private ?? 0, 'رسالة تواصل', 'email' ) ) as $stat ) {
         echo '<div class="ca-stat"><span class="dashicons dashicons-' . esc_attr( $stat[2] ) . '"></span><strong>' . (int) $stat[0] . '</strong><span>' . esc_html( $stat[1] ) . '</span></div>';
     }
-    echo '</div><div class="ca-dashboard-grid"><section class="ca-panel"><h2>ابدأ من هنا</h2><div class="ca-quicklinks"><a href="' . esc_url( admin_url( 'admin.php?page=canarw-content' ) ) . '"><strong>الصفحات والمحتوى ←</strong><span>النصوص، الصور، الأقسام وترتيبها</span></a>';
+    echo '</div><div class="ca-dashboard-grid"><section class="ca-panel"><h2>ابدأ من هنا</h2><div class="ca-quicklinks"><a href="' . esc_url( admin_url( 'admin.php?page=canarw-content' ) ) . '"><strong>الصفحات والمحتوى ←</strong><span>النصوص، الصور، الأقسام وترتيبها</span></a><a href="' . esc_url( admin_url( 'edit.php' ) ) . '"><strong>المدونة ←</strong><span>آخر الأخبار والمقالات</span></a><a href="' . esc_url( admin_url( 'edit-tags.php?taxonomy=category' ) ) . '"><strong>أقسام المدونة ←</strong><span>تصنيفات الأخبار</span></a>';
     if ( current_user_can( 'manage_options' ) ) { echo '<a href="' . esc_url( admin_url( 'admin.php?page=canarw-identity' ) ) . '"><strong>هوية الموقع ←</strong><span>الشعار، الألوان وبيانات التواصل</span></a><a href="' . esc_url( admin_url( 'nav-menus.php' ) ) . '"><strong>قوائم الموقع ←</strong><span>العربية، الإنجليزية وروابط الفوتر</span></a><a href="' . esc_url( admin_url( 'admin.php?page=canarw-import' ) ) . '"><strong>استيراد بيانات الموقع ←</strong><span>الصفحات والصور الموجودة في الموقع الأصلي</span></a>'; }
     echo '</div></section><section class="ca-panel"><h2>آخر الصفحات المحدّثة</h2>';
     $recent = get_posts( array( 'post_type' => 'page', 'post_status' => array( 'publish', 'draft' ), 'numberposts' => 6, 'orderby' => 'modified' ) );
@@ -108,7 +110,7 @@ function canarw_admin_content() {
     }
     canarw_admin_end();
 }
-function canarw_layout_labels() { return array( 'hero' => 'واجهة رئيسية', 'split' => 'نص وصورة', 'text' => 'نص ومحتوى', 'editorial' => 'محتوى بعمودين', 'cards' => 'بطاقات', 'gallery' => 'معرض صور', 'testimonials' => 'شهادات وآراء', 'contact' => 'تواصل', 'stats' => 'أرقام ومؤشرات' ); }
+function canarw_layout_labels() { return array( 'hero' => 'واجهة رئيسية', 'split' => 'نص وصورة', 'text' => 'نص ومحتوى', 'editorial' => 'محتوى بعمودين', 'cards' => 'بطاقات', 'gallery' => 'معرض صور', 'testimonials' => 'شهادات وآراء', 'contact' => 'تواصل', 'stats' => 'أرقام ومؤشرات', 'news' => 'أخبار ومدونة' ); }
 function canarw_admin_field( $name, $label, $value, $type = 'text', $required = false, $hint = '' ) {
     echo '<label class="ca-field">' . esc_html( $label );
     if ( 'textarea' === $type ) { echo '<textarea name="' . esc_attr( $name ) . '" rows="3">' . esc_textarea( $value ) . '</textarea>'; }

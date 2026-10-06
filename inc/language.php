@@ -46,6 +46,8 @@ function canarw_menu_labels() {
         '/network-structure' => array( 'ar' => 'هيكل الشبكة', 'en' => 'Network structure' ),
         '/reports-and-resources' => array( 'ar' => 'التقارير والموارد', 'en' => 'Reports & resources' ),
         '/climate-justice' => array( 'ar' => 'العدالة المناخية', 'en' => 'Climate justice' ),
+        '/blog' => array( 'ar' => 'المدونة', 'en' => 'Blog' ),
+        '/en/blog' => array( 'ar' => 'المدونة', 'en' => 'Blog' ),
         '/en/about---------' => array( 'ar' => 'من نحن', 'en' => 'About' ),
         '/en/page' => array( 'ar' => 'المتجر', 'en' => 'Store' ),
     );
@@ -288,6 +290,7 @@ function canarw_filter_menu_link( $atts, $item ) {
         $path = (string) get_post_meta( $item->object_id, '_canarw_source_path', true );
     }
     if ( canarw_is_english() && '/' === $path ) { $atts['href'] = canarw_permalink_for_source( '/en' ); }
+    if ( canarw_is_english() && '/blog' === $path ) { $atts['href'] = canarw_permalink_for_source( '/en/blog' ); }
     return $atts;
 }
 function canarw_ensure_arabic_front() {
@@ -410,6 +413,17 @@ function canarw_home_extra_sections( $english ) {
             'button_label' => 'تواصل معنا', 'button_url' => '/contact-as',
             'items' => array(),
         ),
+    );
+}
+function canarw_home_news_section( $english ) {
+    return array(
+        'layout' => 'news', 'tone' => 'light', 'hidden' => false,
+        'kicker' => $english ? 'NEWS' : 'الأخبار',
+        'title' => $english ? 'News and blog' : 'الأخبار والمدونة',
+        'body' => $english ? '<p>The latest ten stories from the blog.</p>' : '<p>آخر عشرة أخبار من المدونة.</p>',
+        'button_label' => $english ? 'All news' : 'كل الأخبار',
+        'button_url' => $english ? '/en/blog' : '/blog',
+        'items' => array(),
     );
 }
 function canarw_home_quotes( $english ) {
@@ -541,7 +555,7 @@ function canarw_curated_home_sections( $english, $image ) {
             ),
         );
     }
-    return array_merge( $base, array( canarw_home_quotes( $english ) ), canarw_home_extra_sections( $english ) );
+    return array_merge( $base, array( canarw_home_news_section( $english ), canarw_home_quotes( $english ) ), canarw_home_extra_sections( $english ) );
 }
 function canarw_prepare_sections( $sections, $id ) {
     $sections = array_values( array_filter( (array) $sections, 'is_array' ) );

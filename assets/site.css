@@ -37,3 +37,22 @@ html[dir="rtl"] .prose .alignright{float:left;margin:0 20px 16px 0}
 .layout-stats .card-copy .prose p{margin:0}
 @media(max-width:800px){.layout-stats .section-items{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:480px){.layout-stats .section-items{grid-template-columns:1fr}}
+.layout-news .post-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.blog-categories{display:block;margin:0 0 56px}
+.blog-categories h2{display:block;margin:0 0 22px}
+ul.blog-cats{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:18px}
+ul.blog-cats>li{display:flex;min-width:0}
+a.blog-cat{display:flex;flex-direction:column;align-items:flex-start;gap:12px;width:100%;min-height:180px;padding:22px 20px;background:#fff;border:1px solid var(--line);border-radius:8px;box-shadow:0 1px 2px rgba(21,59,54,.06);text-decoration:none!important}
+a.blog-cat strong{display:block;margin:0;font-size:20px;line-height:1.45}
+a.blog-cat .blog-cat-text{display:block;color:var(--muted);font-size:14px;line-height:1.7}
+a.blog-cat .blog-cat-count{display:inline-flex;margin-top:auto;background:var(--soft);color:var(--brand);font-size:13px;font-weight:650;line-height:1;padding:8px 12px;border-radius:999px}
+a.blog-cat:hover{border-color:var(--brand);text-decoration:none!important}
+.blog-hero{width:100%;max-height:520px;object-fit:cover;margin-bottom:28px}
+.blog-pagination,.navigation.pagination{display:flex;flex-wrap:wrap;gap:10px;margin-top:36px}
+.blog-pagination .page-numbers,.navigation.pagination .page-numbers{display:inline-flex;align-items:center;justify-content:center;min-width:42px;min-height:42px;padding:8px 12px;border:1px solid var(--line);text-decoration:none!important}
+.blog-pagination .current,.navigation.pagination .current{background:var(--brand);color:#fff;border-color:var(--brand)}
+.news-empty{grid-column:1/-1;color:var(--muted)}
+.post-card p{color:var(--muted);font-size:15px}
+@media(max-width:1100px){ul.blog-cats{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:800px){.layout-news .post-grid{grid-template-columns:1fr}ul.blog-cats{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:560px){ul.blog-cats{grid-template-columns:1fr}}

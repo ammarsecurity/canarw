@@ -1769,6 +1769,10 @@
         "label": "الرئيسية"
       },
       {
+        "url": "/blog",
+        "label": "المدونة"
+      },
+      {
         "url": "/members-and-people",
         "label": "الأعضاء"
       },
@@ -1821,6 +1825,10 @@
       {
         "url": "/",
         "label": "Home"
+      },
+      {
+        "url": "/blog",
+        "label": "Blog"
       },
       {
         "url": "/members-and-people",

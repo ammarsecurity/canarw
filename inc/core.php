@@ -95,7 +95,7 @@ function canarw_content_html( $html ) {
 function canarw_sanitize_sections( $sections ) {
     if ( ! is_array( $sections ) ) { return array(); }
     $result = array();
-    $layouts = array( 'hero', 'split', 'text', 'editorial', 'cards', 'gallery', 'testimonials', 'contact', 'stats' );
+    $layouts = array( 'hero', 'split', 'text', 'editorial', 'cards', 'gallery', 'testimonials', 'contact', 'stats', 'news' );
     foreach ( array_slice( $sections, 0, 60 ) as $s ) {
         if ( ! is_array( $s ) ) { continue; }
         $clean = array(

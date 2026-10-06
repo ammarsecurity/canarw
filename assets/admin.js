@@ -1,5 +1,5 @@
 (()=>{'use strict';const config=window.CanarwAdmin||{},q=(s,p=document)=>p.querySelector(s),qa=(s,p=document)=>[...p.querySelectorAll(s)];
-const layouts={hero:'واجهة رئيسية',split:'نص وصورة',text:'نص ومحتوى',editorial:'محتوى بعمودين',cards:'بطاقات',gallery:'معرض صور',testimonials:'شهادات وآراء',contact:'تواصل',stats:'أرقام ومؤشرات'},types={text:'نص منسق',image:'صورة',card:'بطاقة',link:'زر / رابط',contact:'نموذج تواصل'};
+const layouts={hero:'واجهة رئيسية',split:'نص وصورة',text:'نص ومحتوى',editorial:'محتوى بعمودين',cards:'بطاقات',gallery:'معرض صور',testimonials:'شهادات وآراء',contact:'تواصل',stats:'أرقام ومؤشرات',news:'أخبار ومدونة'},types={text:'نص منسق',image:'صورة',card:'بطاقة',link:'زر / رابط',contact:'نموذج تواصل'};
 let dirty=false;const changed=()=>{dirty=true;const x=q('#ca-dirty-indicator');if(x)x.textContent='توجد تغييرات لم تحفظ بعد.'};
 window.addEventListener('beforeunload',e=>{if(dirty){e.preventDefault();e.returnValue=''}});
 const el=(tag,cls,text)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(text!==undefined)n.textContent=text;return n};
